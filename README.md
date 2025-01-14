@@ -13,8 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        usos: actions/checkout@v3
-
+        usos: actions/checkout@v3        
       - name: Deploy
         usos: JamesIves/github-pages-deploy-action@v4
         with:
