@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Actividades de Formularios</title>
+</head>
+<body>
+    <h1>Actividades de Formularios</h1>
+<hr>
+    <h2>Actividad 1</h2>  
+    <fieldset>
+        <legend>Rellena el formulario de contacto</legend>
+        <label>
+            Nombre
+            <input type="text" name="nombre">
+        </label>
+        <label>
+            Email
+            <input type="text" name="Email">
+        </label>
+        <label>
+            Mensajes
+            <input type="text" name="Mensajes">
+        </label>
+        <button type="submit">Enviar</button>
+      </fieldset>
+<hr>
+    <h2>Actividad 2</h2>
+<hr>
+    <h2>Actividad 3</h2>
+    <fieldset>
+        <legend>Regisar nueva cuenta de Usuario</legend>
+        <label>
+            <ul>Nombre</ul>
+            <input type="text" name="nombre">
+        </label>
+        <label>
+            <ul>Apellidos</ul>
+            <input type="text" name="Apellidos">
+        </label>
+        <label>
+            <ul>Edad</ul>
+            <input type="number" id="edad" name="edad">
+        </label>
+        <label>
+            <ul>Nombre de Usuario</ul>
+            <input type="text" name="Nombre de Usuario">
+        </label>
+        <label>
+            <ul>Email</ul>
+            <input type="text" name="email">
+        </label>
+        <label>
+            <ul>Contraseña</ul>
+            <input type="text" name="Contraseña">
+        </label>
+    <ul>
+        <button type="submit">Enviar</button>
+    </ul>
+      </fieldset>
+<hr>
+    <h2>Actividad 4</h2>
+    <h1>Buscar Cámaras de Fotos</h1>
+    <form>
+
+        <ul><label>Marca</label></ul>
+        <select id="marca" name="marca">
+            <option value="">Cualquier marca</option>
+            <option value="canon">Canon</option>
+            <option value="sony">Sony</option>
+            <option value="olympus">Olympus</option>
+        </select>
+
+        <ul><label>Tipo de cámara</label></ul>
+        <select id="tipo" name="tipo">
+            <option value="">Cualquier tipo</option>
+            <option value="dslr">DSLR</option>
+            <option value="mirrorless">Mirrorless</option>
+            <option value="compacta">Compacta</option>
+            <option value="instantanea">Instantánea</option>
+        </select>
+
+        <ul><label>Rango de precios</label></ul>
+            <input type="number" name="precio-min" placeholder="Mínimo" min="0">
+            <input type="number" name="precio-max" placeholder="Máximo" min="0">
+        </div>
+
+        <ul><label>Características adicionales</label></ul>        
+        <select id="extras" name="extras">
+            <option value="0">Sin preferencia</option>
+            <option value="1">Wi-Fi integrado</option>
+            <option value="2">Grabación en 4K</option>
+            <option value="3">Estabilización de imagen</option>
+            <option value="4">Sumergible</option>
+        </select>
+        <ul>
+            <button type="submit">Enviar</button>
+        </ul>
+    </form>
+</body>
+</html>
