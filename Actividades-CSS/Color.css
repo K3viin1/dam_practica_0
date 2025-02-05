@@ -1,0 +1,106 @@
+/* Actividad 1 */
+.negrita {
+    font-weight: bold;
+}
+
+.amarillo {
+    color: rgb(251, 255, 0);
+}
+
+.azul {
+    background-color: lightblue;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+.morado {
+    color: purple;
+}
+
+.rosado {
+    color: deeppink;
+}
+
+.verde {
+    background-color: lightgreen;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+/* Actividad 2 */
+.censurado {
+    background-color: black;
+    color: black;
+}
+
+/* Actividad 3 */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+header {
+    background: white;
+    padding: 20px;
+    text-align: left;
+    font-size: 24px;
+    border-bottom: 1px solid #ddd;
+}
+
+.orange-text {
+    color: #F57C00; /* Naranja oscuro */
+}
+
+.intro {
+    background: white;
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: left;
+}
+
+.highlight {
+    background-color: #F57C00; /* Naranja oscuro */
+    color: white;
+    padding: 4px 8px;
+    border-radius: 3px;
+}
+
+a {
+    color: #F57C00; /* Naranja oscuro */
+    text-decoration: none;
+}
+
+.writing {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+article {
+    background: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+article strong {
+    color: #F57C00; /* Naranja oscuro */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #777;
+    background: white;
+    border-top: 1px solid #ddd;
+}
