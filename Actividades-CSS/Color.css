@@ -34,27 +34,10 @@
 }
 
 /* Actividad 3 */
-body {
-    font-family: Arial, sans-serif;
-    color: #333;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f8f8f8;
-}
-
-header {
-    background: white;
-    padding: 20px;
-    text-align: left;
-    font-size: 24px;
-    border-bottom: 1px solid #ddd;
-}
 
 .orange-text {
-    color: #F57C00; /* Naranja oscuro */
+    color: #F57C00; 
 }
-
 .intro {
     background: white;
     padding: 30px;
@@ -64,15 +47,14 @@ header {
 }
 
 .highlight {
-    background-color: #F57C00; /* Naranja oscuro */
+    background-color: #F57C00; 
     color: white;
     padding: 4px 8px;
     border-radius: 3px;
 }
 
 a {
-    color: #F57C00; /* Naranja oscuro */
-    text-decoration: none;
+    color: #F57C00; 
 }
 
 .writing {
@@ -81,9 +63,6 @@ a {
     padding: 0 20px;
 }
 
-h2 {
-    font-size: 24px;
-}
 
 article {
     background: white;
@@ -93,14 +72,7 @@ article {
 }
 
 article strong {
-    color: #F57C00; /* Naranja oscuro */
+    color: #F57C00; 
 }
 
-footer {
-    text-align: center;
-    padding: 20px;
-    font-size: 14px;
-    color: #777;
-    background: white;
-    border-top: 1px solid #ddd;
-}
+

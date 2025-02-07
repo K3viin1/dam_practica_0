@@ -1,0 +1,66 @@
+/* Actividad 1 */
+.texto {
+    font-size: 1rem;
+    font-weight: 700;    
+    font-style: italic;
+}
+.texto2{
+    font-style: oblique;
+    font-size: 1rem;
+}
+
+/* Actividad 2 */
+.titulo{
+    letter-spacing: 1.2rem;
+}
+.autor{
+    word-spacing: 1.2rem;
+}
+.alto{
+    text-transform: uppercase;
+}
+
+/* Actividad 3 */
+.cursor {
+    color: orange;
+}
+.cursor:hover{
+    color: blue;
+    font-style: italic;
+}
+.capitulo{
+    font-weight: bold;
+}
+.capitulo:hover{
+    color: red;
+}
+
+/* Actividad 4 */
+.triodion-regular {
+    font-family: "Triodion", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+.fuente2{
+        font-family: "Noto Serif Todhri", serif;
+        font-weight: 400;
+        font-style: normal;    
+}
+
+/* Actividad 5 */
+.negrita{
+    font-weight: 700; 
+}
+.negrita2{
+    font-weight: 700; 
+    text-transform: uppercase;
+}
+.mayus{
+    text-transform: uppercase;
+
+}
+.amarillo {
+    background-color: yellow;
+}
