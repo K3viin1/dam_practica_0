@@ -1,0 +1,85 @@
+/* Actividad 1 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-size: 34px;
+}
+p {
+    font-size: 26px;
+}
+.price {
+    font-size: 36px;
+    font-weight: bold;
+}
+img {
+    width: 400px;
+    margin: 20px 0;
+}
+
+/* Actividad 2 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+.titulo {
+    font-size: 48px;
+}
+.info {
+    font-size: 34px;
+}
+.azul {
+    background-color: lightblue;
+    padding: 2px;
+    border-radius: 3px;
+}
+.verde {
+    background-color: lightgreen;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+
+/* Actividad 3 */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+h1 {
+    font-size: 48px;
+    color: #333;
+}
+h2 {
+    font-size: 34px;
+    color: #666;
+}
+p {
+    font-size: 26px;
+    color: #444;
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin: 10px auto;
+}
+.p1 { width: 80%; }
+.p2 { width: 70%; }
+.p3 { width: 60%; }
+.p4 { width: 50%; }
+.p5 { width: 40%; }
+.price {
+    font-size: 36px;
+    font-weight: bold;
+    color: #d32f2f;
+}
+img {
+    width: 400px;
+    margin: 20px 0;
+}
+.highlight {
+    background-color: rgba(255, 255, 0, 0.5);
+    padding: 2px 5px;
+}
