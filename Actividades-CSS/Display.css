@@ -1,0 +1,27 @@
+/* Actividad 1 */
+.parrafos {
+    display: flex;
+    gap: 20px; 
+    justify-content: center; 
+}
+p {
+	background-color: rgb(207, 205, 205);
+	text-align: center;
+}
+
+/* Actividad 2 */
+
+nav ul {
+    display: flex;
+    gap: 20px; 
+    list-style: none;
+}
+nav ul li a {
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+    font-size: 18px;
+    border: 1px solid rgb(8, 8, 8);
+}
+
+
+

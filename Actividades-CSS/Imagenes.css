@@ -1,0 +1,33 @@
+/* Actividad 1 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+/* Actividad 2 */
+main {
+    height: 100vh;
+}
+nav ul {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+    font-size: 18px;
+    border: 1px solid rgb(8, 8, 8);
+}
+
+
+
+
+
