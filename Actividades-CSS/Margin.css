@@ -1,0 +1,66 @@
+/* Actividad 1 */
+.abajo{
+    margin-bottom: 6rem;
+}
+
+/* Actividad 2 */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+.notice {
+    background: #dbe7e4;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.notice a {
+    color: black;
+    text-decoration: underline;
+}
+
+.button {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    border: 2px solid black;
+    text-decoration: none;
+    color: black;
+    border-radius: 30px;
+}
+
+/* Actividad 3 */
+.hero {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    background: #ff5e42;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 30px;
+}
+
+.section {
+    background: #ff5e42;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+.section .btn {
+    background: white;
+    color: #000000;
+}
+
