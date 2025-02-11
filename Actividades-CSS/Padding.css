@@ -1,6 +1,82 @@
-/* Actividad 1 */
-
-/* Actividad 2 */
-
+/* Actividad 1 - 2 */
+.hero {
+    background: #FFEFCB;
+    text-align: center;
+    padding: 50px 20px;
+}
+.buttons a {
+    text-decoration: none;
+    background: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.plan {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.features {
+    list-style: none;
+    padding: 0;
+}
+.button {
+    display: inline-block;
+    background: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 10px;
+    text-decoration: none;
+}
 /* Actividad 3 */
+body {
+    font-family: Arial, sans-serif;
+    padding-left: 20px; 
+}
+
+.accordion {
+    width: 1000px;
+}
+
+.accordion-item {
+    margin-bottom: 40px;
+}
+
+.accordion-toggle {
+    display: none;
+}
+
+.accordion-header {
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+    background-color: #1a1a1a;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.accordion-header:hover {
+    background-color: #45a049;
+}
+
+.accordion-content {
+    padding: 10px;
+    background-color: #f1f1f1;
+    display: none;
+    border: 1px solid #ddd;
+}
+
+.accordion-toggle:checked + .accordion-header + .accordion-content {
+    display: block;
+}
+
 
