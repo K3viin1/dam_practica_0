@@ -1,0 +1,19 @@
+/* Actividad 1 */
+.cuadrado {
+    list-style-type: square;
+}
+
+/* Actividad 2 */
+.corazon{
+    list-style-type: '❤️';
+}
+
+/* Actividad 3 */
+.rectangulo{
+    list-style-type: none;
+}
+
+/* Actividad 4 */
+.batman{
+    list-style-type: '🦇';
+}
