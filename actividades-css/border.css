@@ -1,0 +1,24 @@
+/* Actividad 1 */
+.elemento1 {
+    border: 1rem solid;
+    border-color: orange;
+}
+
+/* Actividad 2 */
+.elemento2 {
+    border: 1rem solid;
+    border-color: orange;
+}
+
+/* Actividad 3 */
+.elemento3 {
+    border: 1rem solid red;
+    border-radius: 4rem;
+
+}
+
+/* Actividad 4 */
+.elemento4 {
+    border: 1rem solid;
+    border-image: linear-gradient(#00f7ff, #ff0000) 1;
+}
