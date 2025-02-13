@@ -1,0 +1,9 @@
+/* Actividad 1 */
+.elemento1:hover{
+    filter: grayscale(100%); 
+}
+
+/* Actividad 2 */
+.elemento2:hover{
+    filter: invert(100%); 
+}
