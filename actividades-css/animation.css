@@ -1,0 +1,52 @@
+/* Actividad 1 */
+div {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.circulo {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%; 
+}
+.sol {
+    background-color: rgb(255, 204, 0); 
+}
+.luna {
+    background-color: rgb(120, 120, 120); 
+    animation: eclipse 5s infinite;
+}
+@keyframes eclipse {
+  0% { transform: translateX(-150px); }
+}
+
+/* Actividad 2 */
+
+.noria {
+  width: 200px;
+  height: 200px;
+  border: 10px solid black;
+  border-radius: 50%;
+  position: relative;
+  animation: girar 10s linear infinite;
+}
+.cabina {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  border-radius: 50%;
+  position: absolute;
+}
+.cabina:nth-child(1) { top: 185px; left: 85px;   }
+.cabina:nth-child(2) { top: 160px; left: 155px;  }
+.cabina:nth-child(3) { top: 90px; left: 190px;   }
+.cabina:nth-child(4) { top: 10px; left: 160px;   }
+.cabina:nth-child(5) { top: -20px; left: 80px;   }
+.cabina:nth-child(6) { top: 35px; left: -10px;   }
+.cabina:nth-child(7) { top: 125px; left: -10px;  }
+
+@keyframes girar {
+  to { transform: rotate(360deg); }
+}
