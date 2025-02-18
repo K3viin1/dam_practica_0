@@ -1,43 +1,42 @@
 /* Actividad 1 */
 div {
-    height: 10vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 .circulo {
-    width: 100px;
-    height: 100px;
-    border-radius: 100%; 
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
 }
 .sol {
-    background-color: rgb(255, 204, 0); 
+  background-color: rgb(255, 204, 0); 
 }
 .luna {
-    background-color: rgb(120, 120, 120); 
-    animation: eclipse 5s infinite;
+  background-color: rgb(120, 120, 120); 
+  animation: eclipse 5s infinite;
 }
 @keyframes eclipse {
-  0% { transform: translateX(-150px); }
+0% { transform: translateX(-150px); }
 }
 
 /* Actividad 2 */
-
 .noria {
-  width: 200px;
-  height: 200px;
-  border: 10px solid black;
-  border-radius: 50%;
-  position: relative;
-  animation: girar 10s linear infinite;
+width: 200px;
+height: 200px;
+border: 10px solid black;
+border-radius: 50%;
+position: relative;
+animation: girar 10s linear infinite;
 }
 .cabina {
-  width: 30px;
-  height: 30px;
-  background-color: red;
-  border-radius: 50%;
-  position: absolute;
+width: 30px;
+height: 30px;
+background-color: red;
+border-radius: 50%;
+position: absolute;
 }
 .cabina:nth-child(1) { top: 185px; left: 85px;   }
 .cabina:nth-child(2) { top: 160px; left: 155px;  }
@@ -48,5 +47,130 @@ div {
 .cabina:nth-child(7) { top: 125px; left: -10px;  }
 
 @keyframes girar {
-  to { transform: rotate(360deg); }
+to {transform: rotate(360deg); }
+}
+
+/* Actividad 4 */
+.reloj {
+width: 200px;
+height: 200px;
+border: 10px solid black;
+border-radius: 50%;
+position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.agujas {
+display: flex;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+.aguja-hora,
+.aguja-minuto,
+.aguja-segundo {
+position: absolute;
+width: 2px;
+background-color: #333;
+transform-origin: 50% 100%;
+top: 0;
+left: 50%;
+transform: translateX(-50%);
+transition-timing-function: linear;
+}
+
+.aguja-hora {
+height: 40px;
+background-color: #00ff00;
+animation: girar-hora 43200s infinite;
+}
+
+.aguja-minuto {
+height: 60px;
+background-color: #00fff2;
+animation: girar-minuto 3600s infinite;
+}
+.aguja-segundo {
+height: 70px;
+background-color: red;
+animation: girar-segundo 60s infinite;
+}
+
+.numeros {
+position: absolute;
+top: 50%;
+left: 50%;
+width: 100%;
+height: 100%;
+transform: translate(-50%, -50%);
+}
+
+.numero {
+position: absolute;
+font-size: 18px;
+font-weight: bold;
+color: #000000;
+}
+
+.numero-1  { transform: rotate(30deg)  translateY(-85px); }
+.numero-2  { transform: rotate(60deg)  translateY(-85px); }
+.numero-3  { transform: rotate(90deg)  translateY(-85px); }
+.numero-4  { transform: rotate(120deg) translateY(-85px); }
+.numero-5  { transform: rotate(150deg) translateY(-85px); }
+.numero-6  { transform: rotate(180deg) translateY(-85px); }
+.numero-7  { transform: rotate(210deg) translateY(-85px); }
+.numero-8  { transform: rotate(240deg) translateY(-85px); }
+.numero-9  { transform: rotate(270deg) translateY(-85px); }
+.numero-10 { transform: rotate(300deg) translateY(-85px); }
+.numero-11 { transform: rotate(330deg) translateY(-85px); }
+.numero-12 { transform: rotate(360deg) translateY(-85px); }
+
+@keyframes girar-hora {
+0% {transform: translateX(-50%) rotate(0deg);}
+100% {transform: translateX(-50%) rotate(360deg);}
+}
+@keyframes girar-minuto {
+0% {transform: translateX(-50%) rotate(0deg);}
+100% {transform: translateX(-50%) rotate(360deg);}
+}
+@keyframes girar-segundo {
+0% {transform: translateX(-50%) rotate(0deg);}
+100% {transform: translateX(-50%) rotate(360deg);}
+}
+
+/* Actividad 6 */
+.pendulo-container {
+  position: relative;
+
+}
+
+.cuerda {
+position: absolute;
+width: 4px;
+height: 200px;
+background-color: #333;
+top: 0;
+left: 50%;
+transform-origin: top center;
+animation: moverPendulo 2s infinite ease-in-out;
+}
+
+.peso {
+position: absolute;
+width: 30px;
+height: 30px;
+background-color: #000;
+border-radius: 50%;
+bottom: -30px; 
+left: 50%;
+transform: translateX(-50%);
+}
+
+@keyframes moverPendulo {
+0%, 100% {transform: rotate(-45deg); }
+50% {transform: rotate(45deg); }
 }
