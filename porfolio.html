@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="porfolio.css">
+    <title>Kevin's Portfolio</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+   
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-container">
+            <div class="logo">Portfolio</div>
+            <div class="nav-links">
+                <a href="#home" class="nav-link">Inicio</a>
+                <a href="/index.html" class="nav-link">Proyectos</a>
+                <a href="#skills" class="nav-link">Habilidades</a>
+                <a href="#contact" class="nav-link">Contacto</a>
+            </div>
+        </div>
+    </nav>
+
+    <section id="home" class="hero">
+        <div class="hero-container">
+            <div class="hero-content">
+                <h1>Hola, mi nombre es Kevin</h1>
+                <p>Soy Kevin Castro Pereira, un apasionado de la tecnología, los videojuegos y el desarrollo web. Actualmente curso un Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma, habiendo completado previamente un Ciclo Medio en Telecomunicaciones en el Instituto Caparrella.</p>
+                <p>Tengo experiencia en reparación de ordenadores portátiles, adquirida en una tienda de informática, y un gran interés por el diseño y desarrollo web. Mis habilidades más desarrolladas incluyen HTML y CSS, ya que disfruto creando sitios web funcionales y atractivos. Siempre busco ampliar mis conocimientos en programación y nuevas tecnologías.</p>
+                <p>Estoy en constante aprendizaje y abierto a oportunidades para seguir creciendo en el sector tecnológico</p>
+                <a href="#contact" class="btn">Contactame</a>
+            </div>
+            <div class="hero-image">
+                <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png" alt="Profile Image">
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="section">
+        <div class="section-container">
+            <h2 class="section-title">Proyectos</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <h3 class="project-title">E-commerce Platform</h3>
+                        <p class="project-description">A full-featured online shopping platform built with React and Node.js.</p>
+                        <a href="#" class="btn">View Project</a>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <h3 class="project-title">Social Media Dashboard</h3>
+                        <p class="project-description">Analytics dashboard for social media management and monitoring.</p>
+                        <a href="#" class="btn">View Project</a>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-image"></div>
+                    <div class="project-content">
+                        <h3 class="project-title">Task Management App</h3>
+                        <p class="project-description">Collaborative task management solution for remote teams.</p>
+                        <a href="#" class="btn">View Project</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="section">
+        <div class="section-container">
+            <h2 class="section-title">Habilidades y Experiencia</h2>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <i class="fas fa-code skill-icon"></i>
+                    <h3>Frontend Development</h3>
+                    <p>HTML, CSS, JavaScript, React</p>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-server skill-icon"></i>
+                    <h3>Backend Development</h3>
+                    <p>Node.js, Python, SQL</p>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-mobile-alt skill-icon"></i>
+                    <h3>Mobile Development</h3>
+                    <p>React Native, Flutter</p>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-paint-brush skill-icon"></i>
+                    <h3>UI/UX Design</h3>
+                    <p>Figma, Adobe XD</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="section contact">
+        <div class="section-container">
+            <h2 class="section-title">Contactame</h2>
+            <form class="contact-form">
+                <div class="form-group">
+                    <label class="form-label">Nombre</label>
+                    <input type="text" class="form-input" placeholder="Tu nombre">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Email</label>
+                    <input type="email" class="form-input" placeholder="Tu@email.com">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Mensaje</label>
+                    <textarea class="form-input" rows="5" placeholder="Tu Mensaje"></textarea>
+                </div>
+                <button type="submit" class="btn">Send Message</button>
+            </form>
+        </div>
+    </section>
+
+    <section id="cv" class="section">
+        <div class="section-container">
+            <h2 class="section-title">Mi Curriculum</h2>
+            <div class="cv-container" style="text-align: center;">
+                <p style="color: #ffffff; margin-bottom: 2rem; font-size: 1.1rem;">Descarga mi CV para conocer más sobre mi experiencia y habilidades</p>
+                <div class="cv-card">
+                    <i class="fas fa-file-pdf" style="
+                        font-size: 3rem;
+                        color: var(--primary);
+                        margin-bottom: 1rem;"></i>
+                    <h3 style="
+                        color: var(--secondary);
+                        margin-bottom: 1rem;
+                    ">Kevin Castro Pereira - CV</h3>
+                    <p style="
+                        color: #a8a8a8;
+                        margin-bottom: 2rem;
+                    ">Formato PDF - Actualizado 2024</p>
+                    <a href="ruta-a-tu-cv.pdf" download class="btn" style="
+                        margin: 0 auto;
+                    ">
+                        <i class="fas fa-download" style="margin-right: 10px;"></i>
+                        Descargar CV
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+        <p>&copy; 2025 Kevin Castro Pereira. Derechos Reservados.</p>
+    </footer>
+</body>
+</html>
