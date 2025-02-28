@@ -1,3 +1,9 @@
+body {
+    line-height: 1.6;
+    color: var(--text);
+    background: var(--background);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -10,12 +16,6 @@
     --secondary: #02f5ff;
     --background: #1f1e1e;
     --text: #ffffff;
-}
-
-body {
-    line-height: 1.6;
-    color: var(--text);
-    background: var(--background);
 }
 
 .nav {
