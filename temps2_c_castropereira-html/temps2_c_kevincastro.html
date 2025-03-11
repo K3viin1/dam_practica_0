@@ -2,10 +2,12 @@
 <!DOCTYPE html>
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="temps2_c_kevincastro.css">
+
 <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
         var openWeatherAppId = '6508b04b2360df421989285e56527184',
@@ -46,24 +48,35 @@
                 console.error(error)
                 alert('Error enviant la peticio')
             })
+  
         }
+            
 
         function cercarDades (previsio) {
             console.log(previsio)
+
             var html = '',
               nomCiutat = previsio.city.name,
-                country = previsio.city.country
+              country = previsio.city.country
 
             html += '<h3> Previsió de temps per a '
               + nomCiutat
                 + ', '
                 + country
                 + '</h3>'
-            previsio.list.forEach(function(previsioEntry, index, list){
+
+            previsio.list.forEach(function(previsioEntry, index, list){               
+                
+                const icon = previsioEntry.weather[0].icon
+                const iconUrl = `http://openweathermap.org/img/wn/${icon}@2x.png`
+                const imageItem = `<img src="${iconUrl}" alt="${icon}" width="48" height="48" />`
+
                 html += '<p>'
                   + previsioEntry.dt_txt
                     + ': '
                     + previsioEntry.main.temp
+                    + 'ºC ' 
+                    + imageItem
                     + '</p>'
             })
 
