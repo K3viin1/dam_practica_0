@@ -55,34 +55,40 @@
         function cercarDades (previsio) {
             console.log(previsio)
 
-            var html = '',
-              nomCiutat = previsio.city.name,
-              country = previsio.city.country
+        var html = '',
+            nomCiutat = previsio.city.name,
+            country = previsio.city.country
 
-            html += '<h3> Previsió de temps per a '
-              + nomCiutat
-                + ', '
-                + country
-                + '</h3>'
+        html += '<h3> Previsió de temps per a '
+          + nomCiutat
+            + ', '
+            + country
+            + '</h3>'
 
-            previsio.list.forEach(function(previsioEntry, index, list){               
+        previsio.list.forEach(function(previsioEntry, index, list){               
                 
-                const icon = previsioEntry.weather[0].icon
-                const iconUrl = `http://openweathermap.org/img/wn/${icon}@2x.png`
-                const imageItem = `<img src="${iconUrl}" alt="${icon}" width="48" height="48" />`
+            var icon = previsioEntry.weather[0].icon
+            var iconUrl = `http://openweathermap.org/img/wn/${icon}@2x.png`
+            var imageItem = `<img src="${iconUrl}" alt="${icon}" width="48" height="48" />`
 
-                html += '<p>'
-                  + previsioEntry.dt_txt
-                    + ': '
-                    + previsioEntry.main.temp
-                    + 'ºC ' 
-                    + imageItem
-                    + '</p>'
-            })
+        html += '<p>'
+              + previsioEntry.dt_txt
+                + ': '
+                + previsioEntry.main.temp
+                + 'ºC ' 
+                + imageItem
+                + '</p>'
+        })
 
             $('#log').html(html)
         }
     </script>
+    <style>
+        body{
+            background-color: rgb(0, 0, 0); }
+        h2, p, div {
+            color: rgb(255, 255, 255);}
+    </style>
 </head>
 <body>
 
