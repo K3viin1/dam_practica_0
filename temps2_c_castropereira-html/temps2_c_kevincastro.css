@@ -1,3 +1,7 @@
-body {
-    background-color: black;
+body{
+    background-color: rgb(214, 191, 158); 
+}
+
+h2, p, div {
+    color: rgb(0, 0, 0);
 }
