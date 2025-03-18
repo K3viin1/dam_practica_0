@@ -10,7 +10,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
         var openWeatherAppId = '6508b04b2360df421989285e56527184',
-          openWeatherUrl = 'http://api.openweathermap.org/data/2.5/forecast'
+          openWeatherUrl = 'https://api.openweathermap.org/data/2.5/forecast'
 
         var prepararDades = function(unitats) {
             var nomCiutat = $('#nom-ciutat').val()
@@ -67,7 +67,7 @@
         previsio.list.forEach(function(previsioEntry, index, list){               
                 
             var icon = previsioEntry.weather[0].icon
-            var iconUrl = `http://openweathermap.org/img/wn/${icon}@2x.png`
+            var iconUrl = `https://openweathermap.org/img/wn/${icon}@2x.png`
             var imageItem = `<img src="${iconUrl}" alt="${icon}" width="48" height="48" />`
 
         html += '<p>'
@@ -79,41 +79,36 @@
                 + '</p>'
         })
 
-            $('#log').html(html)
+            $('#p1').html(html)
         }
     </script>
 </head>
 <body>
 
-    <div class="container">
+    <div class="contenedor">
 
-        <div class="row">
-            <div class="span4 offset 3">
+        <div>
+            <div>
                 <h2>Aplicació del temps</h2>
                 <p>Entra el nom d'una ciutat per consultar la previsió del temps</p>
             </div>
-            <div class="span6  offset1"><input class="span4" type="text" placeholder="Entra el nom de la ciutat" id="nom-ciutat" value=""/>
+            <div><input type="text" placeholder="Entra el nom de la ciutat" id="nom-ciutat"/>
             </div>
 
         </div>
-        <div class="row">
-            <div class="span6 offset1"><input type="button" class="btn-primary btn btn-metric" value="Previsió en graus celsius"/>
-            <div class="span6 offset1"><input type="button" class="btn-danger btn btn-imperial" value="Previsió amb fahrenheit"/>
+        <div>
+            <div><input class="btn-primary btn btn-metric" type="button" value="Previsió en celsius"/>
+            <div><input class="btn-danger btn btn-imperial" type="button" value="Previsió amb fahrenheit"/>
             </div>
-            <div class="span3">
+            <div>
                 <p id="info"></p>
             </div>
         </div>
 
-        <div class="row">
-            <div class="span6 offset1">
-                <div id="log">Res que mostrar encara</div>
+        <div>
+            <div>
+                <div id="p1">Res que mostrar encara</div>
             </div>
-        </div>
-
-        <div class="row">
-            <hr/>
-            <p></p>
         </div>
 
     </div>
