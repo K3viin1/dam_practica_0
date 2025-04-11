@@ -1,0 +1,213 @@
+<cartelera last-mod="08/04/2025 - 04:51">
+    <recinto id="1" value="CINES LYS">
+        <address>Pso. Ruzafa, 3</address>
+        <postcode>46002</postcode>
+        <city>Valencia</city>
+        <evento>
+            <titulo value="CITA A CIEGAS CON EL CINE" id="5609" uid="30913"/>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdcita-a-ciegas-con-el-cine/5609/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00cwq.jpg</caratula>
+            <calificacion/>
+            <genero/>
+            <duracion>100</duracion>
+            <sinopsis/>
+            <trailer/>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="362871" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdcita-a-ciegas-con-el-cine/362871/" sala="13" version="VersiÃ³n Original Extranjera" formato="HD" hora="19:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ANORA" id="6371" uid="41696"/>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdanora/6371/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00lsy.jpg</caratula>
+            <calificacion>No rec. a menores de 16 aÃ±os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>139</duracion>
+            <sinopsis>Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca ruso. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulaciÃ³n del matrimonio.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=xV7jnVhBD2E</trailer>
+            <fechas>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="363071" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdanora/363071/" sala="14" version="VersiÃ³n Original Extranjera" formato="HD" hora="22:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CÃ“NCLAVE" id="6445" uid="41963"/>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdconclave/6445/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00m18.jpg</caratula>
+            <calificacion>No rec. a menores de 7 aÃ±os</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>120</duracion>
+            <sinopsis>Tras la inesperada muerte del Sumo PontÃ­fice, el cardenal Lawrence es designado como responsable para liderar uno de los rituales mÃ¡s secretos y antiguos del mundo: la elecciÃ³n de un nuevo Papa. Cuando los lÃ­deres mÃ¡s poderosos de la Iglesia CatÃ³lica se reÃºnen en los salones del Vaticano, Lawrence se ve atrapado dentro de una compleja conspiraciÃ³n a la vez que descubre un secreto que podrÃ­a sacudir los cimientos de la Iglesia.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=J0E78tL6CxY</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="363125" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdconclave/363125/" sala="10" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="363057" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdconclave/363057/" sala="10" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="363164" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdconclave/363164/" sala="10" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MACBETH (TEATRO DIFERIDO 10-04-25)" id="6483" uid="42898"/>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdmacbeth-teatro-diferido-10-04-25/6483/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mr9.jpg</caratula>
+            <calificacion/>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>114</duracion>
+            <sinopsis/>
+            <trailer/>
+            <fechas>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="359414" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdmacbeth-teatro-diferido-10-04-25/359414/" sala="14" version="VersiÃ³n Original Extranjera" formato="HD" hora="19:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="AIDA (Ã“PERA DIFERIDO 17-04-25)" id="6484" uid="42899"/>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdaida-opera-diferido-17-04-25/6484/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mra.jpg</caratula>
+            <calificacion/>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>153</duracion>
+            <sinopsis/>
+            <trailer/>
+            <fechas>
+                <fecha value="17/04/2025">
+                    <sesiones>
+                        <sesion id="359415" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdaida-opera-diferido-17-04-25/359415/" sala="14" version="VersiÃ³n Original Extranjera" formato="HD" hora="19:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA VALQUIRIA (2025)" id="6485" uid="40529"/>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-valquiria-2025/6485/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ley.jpg</caratula>
+            <calificacion>Para todos los pÃºblicos</calificacion>
+            <genero>Ã“PERA</genero>
+            <duracion>365</duracion>
+            <sinopsis>Dioses y mortales se enfrentan en el segundo capÃ­tulo del ciclo de El anillo del nibelungo de Wagner. El director musical Antonio Pappano y el director Barrie Kosky se reÃºnen para continuar la mÃ­tica aventura que comenzÃ³ con El oro del Rin en 2023.</sinopsis>
+            <trailer/>
+            <fechas>
+                <fecha value="14/05/2025">
+                    <sesiones>
+                        <sesion id="359416" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-valquiria-2025/359416/" sala="14" version="VersiÃ³n Original Extranjera" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA VALQUIRIA (Ã“PERA REPOSICIÃ“N DIRECTO 18-05-25)" id="6486" uid="42901"/>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-valquiria-opera-reposicion-directo-18-05-25/6486/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mrc.jpg</caratula>
+            <calificacion/>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>365</duracion>
+            <sinopsis/>
+            <trailer/>
+            <fechas>
+                <fecha value="18/05/2025">
+                    <sesiones>
+                        <sesion id="359417" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-valquiria-opera-reposicion-directo-18-05-25/359417/" sala="14" version="VersiÃ³n Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BALLET TO BROADWAY BALLET RBO 24-25" id="6487" uid="40940"/>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdballet-to-broadway-ballet-rbo-24-25/6487/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00l85.jpg</caratula>
+            <calificacion>Para todos los pÃºblicos</calificacion>
+            <genero>BALLET</genero>
+            <duracion>180</duracion>
+            <sinopsis>Cuatro estupendas obras cortas que aÃºnan la sensualidad del ballet contemporÃ¡neo con la vitalidad del teatro musical: Fool s Paradise, The Two of Us, Us, An American in Paris, cuatro creaciones que ponen de manifiesto la asombrosa diversidad coreogrÃ¡fica de Christopher Wheeldon, socio artÃ­stico de The Royal Ballet.</sinopsis>
+            <trailer/>
+            <fechas>
+                <fecha value="22/05/2025">
+                    <sesiones>
+                        <sesion id="359419" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdballet-to-broadway-ballet-rbo-24-25/359419/" sala="14" version="VersiÃ³n Original Extranjera" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BALLET TO BRODWAY (BALLET REPOSICIÃ“N DIRECTO 25-05-24)" id="6488" uid="42903"/>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdballet-to-brodway-ballet-reposicion-directo-25-05-24/6488/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mre.jpg</caratula>
+            <calificacion/>
+            <genero>DRAMA ROMÃNTICA</genero>
+            <duracion>180</duracion>
+            <sinopsis/>
+            <trailer/>
+            <fechas>
+                <fecha value="25/05/2025">
+                    <sesiones>
+                        <sesion id="359418" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdballet-to-brodway-ballet-reposicion-directo-25-05-24/359418/" sala="14" version="VersiÃ³n Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TOSCA (Ã“PERA DIFERIDO 12-06-25)" id="6489" uid="42904"/>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdtosca-opera-diferido-12-06-25/6489/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mrf.jpg</caratula>
+            <calificacion/>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>134</duracion>
+            <sinopsis/>
+            <trailer/>
+            <fechas>
+                <fecha value="12/06/2025">
+                    <sesiones>
+                        <sesion id="359420" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdtosca-opera-diferido-12-06-25/359420/" sala="14" version="VersiÃ³n Original Extranjera" formato="HD" hora="19:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="FLOW, UN MUNDO QUE SALVAR" id="6496" uid="42521"/>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdflow-un-mundo-que-salvar/6496/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mhc.jpg</caratula>
+            <calificacion>Para todos los pÃºblicos</calificacion>
+            <genero>ANIMACIÃ“N</genero>
+            <duracion>85</duracion>
+            <sinopsis>Un gato se despierta en un mundo cubierto de agua, donde la raza humana parece haber desaparecido. Busca refugio en un barco con un grupo de otros animales. Pero llevarse bien con ellos resulta ser un reto aÃºn mayor que superar su miedo al agua. Todos tendrÃ¡n que aprender a superar sus diferencias y adaptarse a este nuevo mundo en el que se encuentran.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=1GCU3sp29SU</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="363109" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdflow-un-mundo-que-salvar/363109/" sala="7" version="Doblada al Castellano" formato="HD" hora="17:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="363046" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdflow-un-mundo-que-salvar/363046/" sala="7" version="Doblada al Castellano" formato="HD" hora="17:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="363157" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdflow-un-mundo-que-salvar/363157/" sala="7" version="Doblada al Castellano" formato="HD" hora="17:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+      
