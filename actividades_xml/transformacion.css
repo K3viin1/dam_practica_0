@@ -1,0 +1,238 @@
+/* Estilos generales */
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f4ff;
+  color: #333;
+}
+
+header {
+  background-color: #6177c2;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin: 0;
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+
+a{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.cine-info {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.cinema-name {
+  color: #444;
+  font-size: 1.8rem;
+  margin-bottom: 5px;
+}
+
+.cinema-address {
+  color: #666;
+  font-size: 1rem;
+}
+
+/* Tabla de películas */
+.movie-table {
+  width: 90%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background-color: white;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.movie-table th {
+  background-color: #6177c2;
+  color: white;
+  padding: 15px;
+  text-align: left;
+}
+
+.movie-table td {
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+  vertical-align: top;
+}
+
+.movie-table tr:last-child td {
+  border-bottom: none;
+}
+
+/* Estilos para películas */
+.poster {
+  max-width: 180px;
+  border-radius: 5px;
+}
+
+.movie-title {
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.metadatos {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.metadatos div {
+  margin-bottom: 8px;
+}
+
+.etiqueta {
+  font-weight: 600;
+  margin-right: 5px;
+}
+
+.sinopsis {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  max-width: 600px;
+}
+
+.no-content {
+  color: #777;
+  font-style: italic;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+}
+
+.links a {
+  display: inline-block;
+  background-color: #ff0066;
+  color: white;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: 600;
+  transition: background-color 0.3s;
+}
+
+.links a:hover {
+  background-color: #d40055;
+}
+.movie-card {
+  display: flex;
+  background-color: #f0f4ff;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.movie-card {
+  display: flex;
+  background-color: #f0f4ff;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 15px; 
+}
+
+.movie-poster {
+  width: 280px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;  
+  overflow: hidden;
+  margin-right: 20px;  
+  gap: 50px;
+}
+
+.movie-poster img {
+  width: 100%;
+  height: auto;
+}
+
+.movie-details {
+  flex: 1;
+  padding: 15px;  /* Espaciado interno de los detalles de la película */
+}
+
+.movie-title-big {
+  color: #3856b3;
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 15px;  /* Espacio debajo del título */
+}
+
+.genre-tag {
+  display: inline-block;
+  background-color: #ff0066;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;  /* Espacio debajo de la etiqueta de género */
+}
+
+.movie-description {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-bottom: 15px;  /* Espacio debajo de la descripción */
+}
+
+.movie-metadata {
+  display: flex;
+  justify-content: space-between;
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: 20px;
+}
+
+.link-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.link-image, .link-trailer {
+  display: inline-block;
+  background-color: #a8c4ff;
+  color: #444;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  font-weight: 600;
+  flex: 1;
+  text-align: center;
+  margin-bottom: 10px;  /* Espacio debajo de los enlaces */
+}
+
+.link-trailer {
+  background-color: #b8d0ff;
+}
+
+.comprar-entrada {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  width: 50px;
+  background-color: #ff0066;
+  color: white;
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 1.1rem;
+}

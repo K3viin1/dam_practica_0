@@ -1,0 +1,750 @@
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  <xsl:output method="html" indent="yes" encoding="UTF-8" />
+  <link href="transformacion.css" rel="stylesheet" type="text/css">
+
+  <xsl:template match="/">
+    <html>
+
+    <head>
+      <title>Cartelera de Cines</title>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet" />
+    </head>
+
+    <body>
+      <header>
+        <h1>Cartelera de Cines</h1>
+      </header>
+
+      <xsl:template match="evento">
+        <tr>
+          <td>
+            <xsl:choose>
+              </xsl:attribute>
+              <xsl:value-of select="titulo/@value" />
+              <xsl:variable name="titulo/@value" class="title">ANORA</xsl:variable>
+              </xsl:attribute>
+              </img>
+              </xsl:when>
+              <xsl:otherwise>
+                <img class="poster"
+                  src="http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00lsy.jpg"
+                  alt="Sin imagen" />
+              </xsl:otherwise>
+            </xsl:choose>
+          </td>
+          <td>
+            <div class="movie-title"><xsl:value-of select="titulo/@value" /></div>
+            <div class="metadatos">
+              <div><span class="etiqueta">Calificación:</span>
+                <xsl:choose>
+                  <xsl:when test="calificacion and calificacion != ">
+                    <xsl:value-of select="calificacion" />
+                  </xsl:when>
+                  <xsl:otherwise><span class="no-content">No rec. a menores de 16 años</span></xsl:otherwise>
+                </xsl:choose>
+              </div>
+              <div><span class="etiqueta">Género:</span>
+                <xsl:choose>
+                  <xsl:when test="genero and genero != ''">
+                    <xsl:value-of select="genero" />
+                  </xsl:when>
+                  <xsl:otherwise><span class="no-content">DRAMA</span></xsl:otherwise>
+                </xsl:choose>
+              </div>
+              <div><span class="etiqueta">Duración:</span>
+                <xsl:choose>
+                  <xsl:when test="duracion and duracion != ''">
+                    <xsl:value-of select="duracion" />
+                  </xsl:when>
+                  <xsl:otherwise><span class="no-content">139 minutos</span></xsl:otherwise>
+                </xsl:choose>
+              </div>
+            </div>
+          </td>
+          <td>
+            <div class="sinopsis">
+              <xsl:choose>
+                <xsl:when test="sinopsis and sinopsis != ''">
+                  <xsl:value-of select="sinopsis" />
+                </xsl:when>
+                <xsl:otherwise>
+                  <span class="no-content">Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una
+                    historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca ruso.
+                    Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia
+                    Nueva York para intentar conseguir la anulaciÃ³n del matrimonio.</span>
+                </xsl:otherwise>
+              </xsl:choose>
+          <td class="links">
+            <a>
+              <a href="https://www.reservaentradas.com/entrada/valencia/cineslys/hdanora/363071/"
+                target="_blank">Comprar</a>
+              <xsl:if test="trailer != ''">
+                <a href="https://www.youtube.com/watch?v=xV7jnVhBD2E" target="_blank">Trailer</a>
+            </a>
+            </xsl:if>
+          </td>
+          </div>
+          </td>
+        </tr>
+        <xsl:template match="evento">
+          <tr>
+            <td>
+              <xsl:choose>
+                </xsl:attribute>
+                <xsl:value-of select="titulo/@value" />
+                <xsl:variable name="titulo/@value">LA VALQUIRIA (2025)</xsl:variable>
+                </xsl:attribute>
+                </img>
+                </xsl:when>
+                <xsl:otherwise>
+                  <img class="poster"
+                    src="http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ley.jpg"
+                    alt="Sin imagen" />
+                </xsl:otherwise>
+              </xsl:choose>
+            </td>
+            <td>
+              <div class="movie-title"><xsl:value-of select="titulo/@value" /></div>
+              <div class="metadatos">
+                <div><span class="etiqueta">Calificación:</span>
+                  <xsl:choose>
+                    <xsl:when test="calificacion and calificacion != ">
+                      <xsl:value-of select="calificacion" />
+                    </xsl:when>
+                    <xsl:otherwise><span class="no-content">Para todos los publicos</span></xsl:otherwise>
+                  </xsl:choose>
+                </div>
+                <div><span class="etiqueta">Género:</span>
+                  <xsl:choose>
+                    <xsl:when test="genero and genero != ''">
+                      <xsl:value-of select="genero" />
+                    </xsl:when>
+                    <xsl:otherwise><span class="no-content">Ã“PERA</span></xsl:otherwise>
+                  </xsl:choose>
+                </div>
+                <div><span class="etiqueta">Duración:</span>
+                  <xsl:choose>
+                    <xsl:when test="duracion and duracion != ''">
+                      <xsl:value-of select="duracion" />
+                    </xsl:when>
+                    <xsl:otherwise><span class="no-content">365 minutos</span></xsl:otherwise>
+                  </xsl:choose>
+                </div>
+              </div>
+            </td>
+            <td>
+              <div class="sinopsis">
+                <xsl:choose>
+                  <xsl:when test="sinopsis and sinopsis != ''">
+                    <xsl:value-of select="sinopsis" />
+                  </xsl:when>
+                  <xsl:otherwise>
+                    <span class="no-content">Tras la inesperada muerte del Sumo PontÃ­fice, el cardenal Lawrence es
+                      designado como responsable para liderar uno de los rituales mÃ¡s secretos y antiguos del mundo: la
+                      elecciÃ³n de un nuevo Papa. Cuando los lÃ­deres mÃ¡s poderosos de la Iglesia CatÃ³lica se reÃºnen
+                      en los salones del Vaticano, Lawrence se ve atrapado dentro de una compleja conspiraciÃ³n a la vez
+                      que descubre un secreto que podrÃ­a sacudir los cimientos de la Iglesia.</span>
+                  </xsl:otherwise>
+                </xsl:choose>
+            <td class="links">
+              <a>
+                <a href="https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-valquiria-2025/6485/"
+                  target="_blank">Comprar</a>
+                <xsl:if test="trailer != ''">
+              </a>
+              </xsl:if>
+            </td>
+            </div>
+            </td>
+          </tr>
+          <xsl:template match="evento">
+            <tr>
+              <td>
+                <xsl:choose>
+                  </xsl:attribute>
+                  <xsl:value-of select="titulo/@value" />
+                  <xsl:variable name="titulo/@value">CONCLAVE</xsl:variable>
+                  </xsl:attribute>
+                  </img>
+                  </xsl:when>
+                  <xsl:otherwise>
+                    <img class="poster"
+                      src="http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00m18.jpg"
+                      alt="Sin imagen" />
+                  </xsl:otherwise>
+                </xsl:choose>
+              </td>
+
+              <td>
+                <div class="movie-title"><xsl:value-of select="titulo/@value" /></div>
+                <div class="metadatos">
+                  <div><span class="etiqueta">Calificación:</span>
+                    <xsl:choose>
+                      <xsl:when test="calificacion and calificacion != ">
+                        <xsl:value-of select="calificacion" />
+                      </xsl:when>
+                      <xsl:otherwise><span class="no-content">No rec. a menores de 7 aÃ±os</span></xsl:otherwise>
+                    </xsl:choose>
+                  </div>
+                  <div><span class="etiqueta">Género:</span>
+                    <xsl:choose>
+                      <xsl:when test="genero and genero != ''">
+                        <xsl:value-of select="genero" />
+                      </xsl:when>
+                      <xsl:otherwise><span class="no-content">THRILLER</span></xsl:otherwise>
+                    </xsl:choose>
+                  </div>
+                  <div><span class="etiqueta">Duración:</span>
+                    <xsl:choose>
+                      <xsl:when test="duracion and duracion != ''">
+                        <xsl:value-of select="duracion" />
+                      </xsl:when>
+                      <xsl:otherwise><span class="no-content">120 minutos</span></xsl:otherwise>
+                    </xsl:choose>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div class="sinopsis">
+                  <xsl:choose>
+                    <xsl:when test="sinopsis and sinopsis != ''">
+                      <xsl:value-of select="sinopsis" />
+                    </xsl:when>
+                    <xsl:otherwise>
+                      <span class="no-content">Tras la inesperada muerte del Sumo PontÃ­fice, el cardenal Lawrence es
+                        designado como responsable para liderar uno de los rituales mÃ¡s secretos y antiguos del mundo:
+                        la elecciÃ³n de un nuevo Papa. Cuando los lÃ­deres mÃ¡s poderosos de la Iglesia CatÃ³lica se
+                        reÃºnen en los salones del Vaticano, Lawrence se ve atrapado dentro de una compleja
+                        conspiraciÃ³n a la vez que descubre un secreto que podrÃ­a sacudir los cimientos de la
+                        Iglesia.</span>
+                    </xsl:otherwise>
+                  </xsl:choose>
+              <td class="links">
+                <a>
+                  <a href="https://www.reservaentradas.com/sesiones/valencia/cineslys/hdconclave/6445/"
+                    target="_blank">Comprar</a>
+                  <xsl:if test="trailer != ''">
+                    <a href="https://www.youtube.com/watch?v=J0E78tL6CxY" target="_blank">Trailer</a>
+                </a>
+                </xsl:if>
+              </td>
+              </div>
+              </td>
+            </tr>
+            <xsl:template match="evento">
+              <tr>
+                <td>
+                  <xsl:choose>
+                    </xsl:attribute>
+                    <xsl:value-of select="titulo/@value" />
+                    <xsl:variable name="titulo/@value">FLOW, UN MUNDO QUE SALVAR</xsl:variable>
+                    </xsl:attribute>
+                    </img>
+                    </xsl:when>
+                    <xsl:otherwise>
+                      <img class="poster"
+                        src="http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mhc.jpg"
+                        alt="Sin imagen" />
+                    </xsl:otherwise>
+                  </xsl:choose>
+                </td>
+                <td>
+                  <div class="movie-title"><xsl:value-of select="titulo/@value" /></div>
+                  <div class="metadatos">
+                    <div><span class="etiqueta">Calificación:</span>
+                      <xsl:choose>
+                        <xsl:when test="calificacion and calificacion != ">
+                          <xsl:value-of select="calificacion" />
+                        </xsl:when>
+                        <xsl:otherwise><span class="no-content">Para todos los publiccos</span></xsl:otherwise>
+                      </xsl:choose>
+                    </div>
+                    <div><span class="etiqueta">Género:</span>
+                      <xsl:choose>
+                        <xsl:when test="genero and genero != ''">
+                          <xsl:value-of select="genero" />
+                        </xsl:when>
+                        <xsl:otherwise><span class="no-content">ANIMACION</span></xsl:otherwise>
+                      </xsl:choose>
+                    </div>
+                    <div><span class="etiqueta">Duración:</span>
+                      <xsl:choose>
+                        <xsl:when test="duracion and duracion != ''">
+                          <xsl:value-of select="duracion" />
+                        </xsl:when>
+                        <xsl:otherwise><span class="no-content">85 minutos</span></xsl:otherwise>
+                      </xsl:choose>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <div class="sinopsis">
+                    <xsl:choose>
+                      <xsl:when test="sinopsis and sinopsis != ''">
+                        <xsl:value-of select="sinopsis" />
+                      </xsl:when>
+                      <xsl:otherwise>
+                        <span class="no-content">Un gato se despierta en un mundo cubierto de agua, donde la raza humana
+                          parece haber desaparecido. Busca refugio en un barco con un grupo de otros animales. Pero
+                          llevarse bien con ellos resulta ser un reto aÃºn mayor que superar su miedo al agua. Todos
+                          tendrÃ¡n que aprender a superar sus diferencias y adaptarse a este nuevo mundo en el que se
+                          encuentran.</span>
+                      </xsl:otherwise>
+                    </xsl:choose>
+                <td class="links">
+                  <a>
+                    <a href="https://www.reservaentradas.com/sesiones/valencia/cineslys/hdflow-un-mundo-que-salvar/6496/"
+                      target="_blank">Comprar</a>
+                    <xsl:if test="trailer != ''">
+                      <a href="https://www.youtube.com/watch?v=1GCU3sp29SU" target="_blank">Trailer</a>
+                  </a>
+                  </xsl:if>
+                </td>
+                </div>
+                </td>
+              </tr>
+              <xsl:template match="evento">
+                <tr>
+                  <td>
+                    <xsl:choose>
+                      </xsl:attribute>
+                      <xsl:value-of select="titulo/@value" />
+                      <xsl:variable name="titulo/@value">LEE MILLER</xsl:variable>
+                      </xsl:attribute>
+                      </img>
+                      </xsl:when>
+                      <xsl:otherwise>
+                        <img class="poster"
+                          src="http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n64.jpg"
+                          alt="Sin imagen" />
+                      </xsl:otherwise>
+                    </xsl:choose>
+                  </td>
+                  <td>
+                    <div class="movie-title"><xsl:value-of select="titulo/@value" /></div>
+                    <div class="metadatos">
+                      <div><span class="etiqueta">Calificación:</span>
+                        <xsl:choose>
+                          <xsl:when test="calificacion and calificacion != ">
+                            <xsl:value-of select="calificacion" />
+                          </xsl:when>
+                          <xsl:otherwise><span class="no-content">No rec. a menores de 16 años</span></xsl:otherwise>
+                        </xsl:choose>
+                      </div>
+                      <div><span class="etiqueta">Género:</span>
+                        <xsl:choose>
+                          <xsl:when test="genero and genero != ''">
+                            <xsl:value-of select="genero" />
+                          </xsl:when>
+                          <xsl:otherwise><span class="no-content">DRAMA</span></xsl:otherwise>
+                        </xsl:choose>
+                      </div>
+                      <div><span class="etiqueta">Duración:</span>
+                        <xsl:choose>
+                          <xsl:when test="duracion and duracion != ''">
+                            <xsl:value-of select="duracion" />
+                          </xsl:when>
+                          <xsl:otherwise><span class="no-content">116 minutos</span></xsl:otherwise>
+                        </xsl:choose>
+                      </div>
+                    </div>
+                  </td>
+                  <td>
+                    <div class="sinopsis">
+                      <xsl:choose>
+                        <xsl:when test="sinopsis and sinopsis != ''">
+                          <xsl:value-of select="sinopsis" />
+                        </xsl:when>
+                        <xsl:otherwise>
+                          <span class="no-content">La historia de la fotOgrafa Elizabeth 'Lee' Miller, una modelo de
+                            moda que se convirtiÃ³ en una aclamada corresponsal de guerra para la revista Vogue durante
+                            la Segunda Guerra Mundial.</span>
+                        </xsl:otherwise>
+                      </xsl:choose>
+                  <td class="links">
+                    <a>
+                      <a href="https://www.reservaentradas.com/sesiones/valencia/cineslys/hdlee-miller/6550/"
+                        target="_blank">Comprar</a>
+                      <xsl:if test="trailer != ''">
+                        <a href="https://www.youtube.com/watch?v=RKWITkHKIkI" target="_blank">Trailer</a>
+                    </a>
+                    </xsl:if>
+                  </td>
+                  </div>
+                  </td>
+                </tr>
+                <xsl:template match="evento">
+                  <tr>
+                    <td>
+                      <xsl:choose>
+                        </xsl:attribute>
+                        <xsl:value-of select="titulo/@value" />
+                        <xsl:variable name="titulo/@value">MICKEY 17</xsl:variable>
+                        </xsl:attribute>
+                        </img>
+                        </xsl:when>
+                        <xsl:otherwise>
+                          <img class="poster"
+                            src="https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00cwq.jpg"
+                            alt="Sin imagen" />
+                        </xsl:otherwise>
+                      </xsl:choose>
+                    </td>
+                    <td>
+                      <div class="movie-title"><xsl:value-of select="titulo/@value" /></div>
+                      <div class="metadatos">
+                        <div><span class="etiqueta">Calificación:</span>
+                          <xsl:choose>
+                            <xsl:when test="calificacion and calificacion != ">
+                              <xsl:value-of select="calificacion" />
+                            </xsl:when>
+                            <xsl:otherwise><span class="no-content">No rec. a menores de 16 años</span></xsl:otherwise>
+                          </xsl:choose>
+                        </div>
+                        <div><span class="etiqueta">Género:</span>
+                          <xsl:choose>
+                            <xsl:when test="genero and genero != ''">
+                              <xsl:value-of select="genero" />
+                            </xsl:when>
+                            <xsl:otherwise><span class="no-content">CIENCIA FICCION</span></xsl:otherwise>
+                          </xsl:choose>
+                        </div>
+                        <div><span class="etiqueta">Duración:</span>
+                          <xsl:choose>
+                            <xsl:when test="duracion and duracion != ''">
+                              <xsl:value-of select="duracion" />
+                            </xsl:when>
+                            <xsl:otherwise><span class="no-content">137 minutos</span></xsl:otherwise>
+                          </xsl:choose>
+                        </div>
+                      </div>
+                    </td>
+                    <td>
+                      <div class="sinopsis">
+                        <xsl:choose>
+                          <xsl:when test="sinopsis and sinopsis != ''">
+                            <xsl:value-of select="sinopsis" />
+                          </xsl:when>
+                          <xsl:otherwise>
+                            <span class="no-content">Mickey7, un robot 'expendable' (prescindible) enviado a un planeta
+                              helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey8, tome su
+                              lugar... AdaptaciÃ³n del libro original de Edward Ashton.</span>
+                          </xsl:otherwise>
+                        </xsl:choose>
+                    <td class="links">
+                      <a>
+                        <a href="https://www.reservaentradas.com/sesiones/valencia/cineslys/hdmickey-17/6549/"
+                          target="_blank">Comprar</a>
+                        <xsl:if test="trailer != ''">
+                          <a href="https://www.youtube.com/watch?v=vzvAieKSWqA" target="_blank">Trailer</a>
+                      </a>
+                      </xsl:if>
+                    </td>
+                    </div>
+                    </td>
+                  </tr>
+                  <xsl:template match="evento">
+                    <tr>
+                      <td>
+                        <xsl:choose>
+                          </xsl:attribute>
+                          <xsl:value-of select="titulo/@value" />
+                          <xsl:variable name="titulo/@value">A COMPLETE UNKNOWN</xsl:variable>
+                          </xsl:attribute>
+                          </img>
+                          </xsl:when>
+                          <xsl:otherwise>
+                            <img class="poster"
+                              src="http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n6f.jpg"
+                              alt="Sin imagen" />
+                          </xsl:otherwise>
+                        </xsl:choose>
+                      </td>
+                      <td>
+                        <div class="movie-title"><xsl:value-of select="titulo/@value" /></div>
+                        <div class="metadatos">
+                          <div><span class="etiqueta">Calificación:</span>
+                            <xsl:choose>
+                              <xsl:when test="calificacion and calificacion != ">
+                                <xsl:value-of select="calificacion" />
+                              </xsl:when>
+                              <xsl:otherwise><span class="no-content">No rec. a menores de 12 años</span>
+                              </xsl:otherwise>
+                            </xsl:choose>
+                          </div>
+                          <div><span class="etiqueta">Género:</span>
+                            <xsl:choose>
+                              <xsl:when test="genero and genero != ''">
+                                <xsl:value-of select="genero" />
+                              </xsl:when>
+                              <xsl:otherwise><span class="no-content">BIOGRAFICA</span></xsl:otherwise>
+                            </xsl:choose>
+                          </div>
+                          <div><span class="etiqueta">Duración:</span>
+                            <xsl:choose>
+                              <xsl:when test="duracion and duracion != ''">
+                                <xsl:value-of select="duracion" />
+                              </xsl:when>
+                              <xsl:otherwise><span class="no-content">141 minutos</span></xsl:otherwise>
+                            </xsl:choose>
+
+                          </div>
+                        </div>
+                      </td>
+                      <td>
+                        <div class="sinopsis">
+                          <xsl:choose>
+                            <xsl:when test="sinopsis and sinopsis != ''">
+                              <xsl:value-of select="sinopsis" />
+                            </xsl:when>
+                            <xsl:otherwise>
+                              <span class="no-content">Ambientada en la influyente escena musical de Nueva York de
+                                principios de los aÃ±os 60, A Complete Unknown cuenta la historia del meteÃ³rico ascenso
+                                del mÃºsico de Minnesota Bob Dylan, un cantante de folk de 19 aÃ±os, hasta las salas de
+                                conciertos y lo mÃ¡s alto de las listas de Ã©xitos. Sus canciones y su mÃ­stica se
+                                convirtieron en un fenÃ³meno mundial que culminÃ³ en 1965 con su rompedora actuaciÃ³n de
+                                rock elÃ©ctrico en el Newport Folk Festival.</span>
+                            </xsl:otherwise>
+                          </xsl:choose>
+                      <td class="links">
+                        <a>
+                          <a href="https://www.reservaentradas.com/sesiones/valencia/cineslys/hda-complete-unknown/6543/"
+                            target="_blank">Comprar</a>
+                          <xsl:if test="trailer != ''">
+                            <a href="https://www.youtube.com/watch?v=5WGNuAR__NM" target="_blank">Trailer</a>
+                        </a>
+                        </xsl:if>
+                      </td>
+                      </div>
+                      </td>
+                    </tr>
+                    <xsl:template match="evento">
+                      <tr>
+                        <td>
+                          <xsl:choose>
+                            </xsl:attribute>
+                            <xsl:value-of select="titulo/@value" />
+                            <xsl:variable name="titulo/@value">WOLFGANG (EXTRAORDINARIO)</xsl:variable>
+                            </xsl:attribute>
+                            </img>
+                            </xsl:when>
+                            <xsl:otherwise>
+                              <img class="poster"
+                                src="http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n9d.jpg"
+                                alt="Sin imagen" />
+                            </xsl:otherwise>
+                          </xsl:choose>
+                        </td>
+                        <td>
+                          <div class="movie-title"><xsl:value-of select="titulo/@value" /></div>
+                          <div class="metadatos">
+                            <div><span class="etiqueta">Calificación:</span>
+                              <xsl:choose>
+                                <xsl:when test="calificacion and calificacion != ">
+                                  <xsl:value-of select="calificacion" />
+                                </xsl:when>
+                                <xsl:otherwise><span class="no-content">No rec. a menores de 7 años</span>
+                                </xsl:otherwise>
+                              </xsl:choose>
+                            </div>
+                            <div><span class="etiqueta">Género:</span>
+                              <xsl:choose>
+                                <xsl:when test="genero and genero != ''">
+                                  <xsl:value-of select="genero" />
+                                </xsl:when>
+                                <xsl:otherwise><span class="no-content">DRAMA</span></xsl:otherwise>
+                              </xsl:choose>
+                            </div>
+                            <div><span class="etiqueta">Duración:</span>
+                              <xsl:choose>
+                                <xsl:when test="duracion and duracion != ''">
+                                  <xsl:value-of select="duracion" />
+                                </xsl:when>
+                                <xsl:otherwise><span class="no-content">110 minutos</span></xsl:otherwise>
+                              </xsl:choose>
+                            </div>
+                          </div>
+                        </td>
+                        <td>
+                          <div class="sinopsis">
+                            <xsl:choose>
+                              <xsl:when test="sinopsis and sinopsis != ''">
+                                <xsl:value-of select="sinopsis" />
+                              </xsl:when>
+                              <xsl:otherwise>
+                                <span class="no-content">Wolfgang, un niÃ±o de diez aÃ±os con un cociente intelectual de
+                                  152 y trastorno del espectro autista, se ve obligado a vivir con su padre, Carles, a
+                                  quien no ha visto nunca, tras la repentina muerte de su madre. Carles afronta el reto
+                                  con ganas y voluntad, pero Wolfgang no soporta su desorden ni su desorganizaciÃ³n y lo
+                                  considera un bajocien por su falta de intelecto. AsÃ­ que, a escondidas, Wolfgang
+                                  planea conseguir su sueÃ±o: entrar en la academia de mÃºsica Grimald de ParÃ­s, donde
+                                  estudiÃ³ su madre, y convertirse en el mejor pianista del mundo. Cuando Carles lo
+                                  descubre, debe decidir entre su gran oportunidad como actor o convertirse en el padre
+                                  que necesita un niÃ±o como Wolfgang.</span>
+                              </xsl:otherwise>
+                            </xsl:choose>
+                        <td class="links">
+                          <a>
+                            <a href="https://www.reservaentradas.com/sesiones/valencia/cineslys/hdwolfgang-extraordinario/6559/"
+                              target="_blank">Comprar</a>
+                            <xsl:if test="trailer != ''">
+                              <a href="https://www.youtube.com/watch?v=Wm9o1N69WY0" target="_blank">Trailer</a>
+                          </a>
+                          </xsl:if>
+                        </td>
+                        </div>
+                        </td>
+                      </tr>
+                      <xsl:template match="evento">
+                        <tr>
+                          <td>
+                            <xsl:choose>
+                              </xsl:attribute>
+                              <xsl:value-of select="titulo/@value" />
+                              <xsl:variable name="titulo/@value">BLANCANIEVES</xsl:variable>
+                              </xsl:attribute>
+                              </img>
+                              </xsl:when>
+                              <xsl:otherwise>
+                                <img class="poster"
+                                  src="http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00neg.jpg"
+                                  alt="Sin imagen" />
+                              </xsl:otherwise>
+                            </xsl:choose>
+                          </td>
+                          <td>
+                            <div class="movie-title"><xsl:value-of select="titulo/@value" /></div>
+                            <div class="metadatos">
+                              <div><span class="etiqueta">Calificación:</span>
+                                <xsl:choose>
+                                  <xsl:when test="calificacion and calificacion != ">
+                                    <xsl:value-of select="calificacion" />
+                                  </xsl:when>
+                                  <xsl:otherwise><span class="no-content">No rec. a menores de 7 años</span>
+                                  </xsl:otherwise>
+                                </xsl:choose>
+                              </div>
+                              <div><span class="etiqueta">Género:</span>
+                                <xsl:choose>
+                                  <xsl:when test="genero and genero != ''">
+                                    <xsl:value-of select="genero" />
+                                  </xsl:when>
+                                  <xsl:otherwise><span class="no-content">AVENTURAS</span></xsl:otherwise>
+                                </xsl:choose>
+                              </div>
+                              <div><span class="etiqueta">Duración:</span>
+                                <xsl:choose>
+                                  <xsl:when test="duracion and duracion != ''">
+                                    <xsl:value-of select="duracion" />
+                                  </xsl:when>
+                                  <xsl:otherwise><span class="no-content">110 minutos</span></xsl:otherwise>
+                                </xsl:choose>
+                              </div>
+                            </div>
+                          </td>
+                          <td>
+                            <div class="sinopsis">
+                              <xsl:choose>
+                                <xsl:when test="sinopsis and sinopsis != ''">
+                                  <xsl:value-of select="sinopsis" />
+                                </xsl:when>
+                                <xsl:otherwise>
+                                  <span class="no-content">Una adaptación en vivo del clasica de cuento de hadas sobre
+                                    una hermosa joven princesa que, mientras es acosada por una reina celosa, busca
+                                    refugio en la casa de siete enanos en la campiÃ±a alemana.</span>
+                                </xsl:otherwise>
+                              </xsl:choose>
+                          <td class="links">
+                            <a>
+                              <a href="https://www.reservaentradas.com/sesiones/valencia/cineslys/hdblancanieves/6569/"
+                                target="_blank">Comprar</a>
+                              <xsl:if test="trailer !=">
+                                <a href="https://www.youtube.com/watch?v=Iqhf2jglRdc" target="_blank">Trailer</a>
+                            </a>
+                            </xsl:if>
+                          </td>
+                          </div>
+                          </td>
+                        </tr>
+                        <xsl:template match="evento">
+                          <tr>
+                            <td>
+                              <xsl:choose>
+                                </xsl:attribute>
+                                <xsl:value-of select="titulo/@value" />
+                                <xsl:variable name="titulo/@value">TIERRA DE NADIE</xsl:variable>
+                                </xsl:attribute>
+                                </img>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                  <img class="poster"
+                                    src="https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00cwq.jpg"
+                                    alt="Sin imagen" />
+                                </xsl:otherwise>
+                              </xsl:choose>
+                            </td>
+                            <td>
+                              <div class="movie-title"><xsl:value-of select="titulo/@value" /></div>
+                              <div class="metadatos">
+                                <div><span class="etiqueta">Calificación:</span>
+                                  <xsl:choose>
+                                    <xsl:when test="calificacion and calificacion != ">
+                                      <xsl:value-of select="calificacion" />
+                                    </xsl:when>
+                                    <xsl:otherwise><span class="no-content">No rec. a menores de 16 años</span>
+                                    </xsl:otherwise>
+                                  </xsl:choose>
+                                </div>
+                                <div><span class="etiqueta">Género:</span>
+                                  <xsl:choose>
+                                    <xsl:when test="genero and genero != ''">
+                                      <xsl:value-of select="genero" />
+                                    </xsl:when>
+                                    <xsl:otherwise><span class="no-content">ACCION</span></xsl:otherwise>
+                                  </xsl:choose>
+                                </div>
+                                <div><span class="etiqueta">Duración:</span>
+                                  <xsl:choose>
+                                    <xsl:when test="duracion and duracion != ''">
+                                      <xsl:value-of select="duracion" />
+                                    </xsl:when>
+                                    <xsl:otherwise><span class="no-content">101 minutos</span></xsl:otherwise>
+                                  </xsl:choose>
+                                </div>
+                              </div>
+                            </td>
+                            <td>
+                              <div class="sinopsis">
+                                <xsl:choose>
+                                  <xsl:when test="sinopsis and sinopsis != ''">
+                                    <xsl:value-of select="sinopsis" />
+                                  </xsl:when>
+                                  <xsl:otherwise>
+                                    <span class="no-content">Esta es la historia de tres viejos amigos. Mateo el
+                                      Gallego, un heroico -a su pesar- guardia civil, Juan El Antxale, un pescador
+                                      convertido en narco por la mala suerte y en el paro, y Benito el Yeye, un
+                                      resignado e inteligente depositario judicial siempre a medio camino entre la ley y
+                                      la delincuencia. Tres amigos separados por un lugar, CÃ¡diz y un momento, el
+                                      presente. Atrapados los tres entre el abandono de las instituciones, el violento e
+                                      imparable ascenso del narco en la provincia y el peligroso aumento del descontento
+                                      social. Tres amigos atrapados en un polvorÃ­n que pondrÃ¡ a prueba su amistad. El
+                                      traslado rutinario de un yate incautado a un peligroso cÃ¡rtel se convierte en una
+                                      aventura entre la vida y la muerte.</span>
+                                  </xsl:otherwise>
+                                </xsl:choose>
+                              </div>
+                            <td class="links">
+                              <a>
+                                <a href="https://www.reservaentradas.com/sesiones/valencia/cineslys/hdtierra-de-nadie/6578/"
+                                  target="_blank">Comprar</a>
+                                <xsl:if test="trailer != ''">
+                                  <a href="https://www.youtube.com/watch?v=uiLrnRL4yk0" target="_blank">Trailer</a>
+                              </a>
+                              </xsl:if>
+                            </td>
+                            </td>
+                          </tr>
+                      </xsl:template>
+</xsl:stylesheet>
