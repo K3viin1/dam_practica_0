@@ -1,8 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="transformacion.xsl"?>
 <cartelera last-mod="08/04/2025 - 04:51">
     <recinto id="1" value="CINES LYS">
         <address>Pso. Ruzafa, 3</address>
         <postcode>46002</postcode>
         <city>Valencia</city>
+    </recinto>
+
         <evento>
             <titulo value="CITA A CIEGAS CON EL CINE" id="5609" uid="30913"/>
             <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdcita-a-ciegas-con-el-cine/5609/</compra>
@@ -24,7 +28,7 @@
             <titulo value="ANORA" id="6371" uid="41696"/>
             <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdanora/6371/</compra>
             <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00lsy.jpg</caratula>
-            <calificacion>No rec. a menores de 16 aÃ±os</calificacion>
+            <calificacion>No rec. a menores de 16 años</calificacion>
             <genero>DRAMA</genero>
             <duracion>139</duracion>
             <sinopsis>Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca ruso. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulaciÃ³n del matrimonio.</sinopsis>
@@ -210,4 +214,5 @@
                 </fecha>
             </fechas>
         </evento>
+     </cartelera>
       
