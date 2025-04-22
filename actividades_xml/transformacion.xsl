@@ -119,7 +119,7 @@
           <h1>Cartelera de Cines</h1>
         </header>
         
-        <xsl:apply-templates select="cartelera/recinto"/>
+        <xsl:apply-templates select="/cartelera/recinto"/>
         
         <footer>
           <p>Última actualización: <xsl:value-of select="cartelera/@last-mod"/></p>
@@ -128,6 +128,7 @@
     </body>
   </html>
 </xsl:template>
+
 
 <xsl:template match="recinto">
   <div class="cinema-info">
