@@ -1,0 +1,2362 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="foliocartelera.xsl"?>
+
+<cartelera last-mod="08/04/2025 - 04:51">
+    <recinto id="1" value="CINES LYS">
+        <address>Pso. Ruzafa, 3</address>
+        <postcode>46002</postcode>
+        <city>Valencia</city>
+        <evento>
+            <titulo value="CITA A CIEGAS CON EL CINE" id="5609" uid="30913"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdcita-a-ciegas-con-el-cine/5609/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00cwq.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>100</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="362871" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdcita-a-ciegas-con-el-cine/362871/" sala="13" version="Versión Original Extranjera" formato="HD" hora="19:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ANORA" id="6371" uid="41696"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdanora/6371/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00lsy.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>139</duracion>
+            <sinopsis>Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca ruso. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=xV7jnVhBD2E</trailer>
+            <fechas>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="363071" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdanora/363071/" sala="14" version="Versión Original Extranjera" formato="HD" hora="22:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CÓNCLAVE" id="6445" uid="41963"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdconclave/6445/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00m18.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>120</duracion>
+            <sinopsis>Tras la inesperada muerte del Sumo Pontífice, el cardenal Lawrence es designado como responsable para liderar uno de los rituales más secretos y antiguos del mundo: la elección de un nuevo Papa. Cuando los líderes más poderosos de la Iglesia Católica se reúnen en los salones del Vaticano, Lawrence se ve atrapado dentro de una compleja conspiración a la vez que descubre un secreto que podría sacudir los cimientos de la Iglesia.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=J0E78tL6CxY</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="363125" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdconclave/363125/" sala="10" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="363057" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdconclave/363057/" sala="10" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="363164" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdconclave/363164/" sala="10" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MACBETH (TEATRO DIFERIDO 10-04-25)" id="6483" uid="42898"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdmacbeth-teatro-diferido-10-04-25/6483/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mr9.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>114</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="359414" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdmacbeth-teatro-diferido-10-04-25/359414/" sala="14" version="Versión Original Extranjera" formato="HD" hora="19:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="AIDA (ÓPERA DIFERIDO 17-04-25)" id="6484" uid="42899"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdaida-opera-diferido-17-04-25/6484/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mra.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>153</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="17/04/2025">
+                    <sesiones>
+                        <sesion id="359415" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdaida-opera-diferido-17-04-25/359415/" sala="14" version="Versión Original Extranjera" formato="HD" hora="19:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA VALQUIRIA (2025)" id="6485" uid="40529"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-valquiria-2025/6485/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ley.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>ÓPERA</genero>
+            <duracion>365</duracion>
+            <sinopsis>Dioses y mortales se enfrentan en el segundo capítulo del ciclo de El anillo del nibelungo de Wagner. El director musical Antonio Pappano y el director Barrie Kosky se reúnen para continuar la mítica aventura que comenzó con El oro del Rin en 2023.</sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="14/05/2025">
+                    <sesiones>
+                        <sesion id="359416" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-valquiria-2025/359416/" sala="14" version="Versión Original Extranjera" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA VALQUIRIA (ÓPERA REPOSICIÓN DIRECTO 18-05-25)" id="6486" uid="42901"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-valquiria-opera-reposicion-directo-18-05-25/6486/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mrc.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>365</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="18/05/2025">
+                    <sesiones>
+                        <sesion id="359417" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-valquiria-opera-reposicion-directo-18-05-25/359417/" sala="14" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BALLET TO BROADWAY BALLET RBO 24-25" id="6487" uid="40940"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdballet-to-broadway-ballet-rbo-24-25/6487/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00l85.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>BALLET</genero>
+            <duracion>180</duracion>
+            <sinopsis>Cuatro estupendas obras cortas que aúnan la sensualidad del ballet contemporáneo con la vitalidad del teatro musical: Fool s Paradise, The Two of Us, Us, An American in Paris, cuatro creaciones que ponen de manifiesto la asombrosa diversidad coreográfica de Christopher Wheeldon, socio artístico de The Royal Ballet.</sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="22/05/2025">
+                    <sesiones>
+                        <sesion id="359419" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdballet-to-broadway-ballet-rbo-24-25/359419/" sala="14" version="Versión Original Extranjera" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BALLET TO BRODWAY (BALLET REPOSICIÓN DIRECTO 25-05-24)" id="6488" uid="42903"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdballet-to-brodway-ballet-reposicion-directo-25-05-24/6488/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mre.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>DRAMA ROMÁNTICA</genero>
+            <duracion>180</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="25/05/2025">
+                    <sesiones>
+                        <sesion id="359418" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdballet-to-brodway-ballet-reposicion-directo-25-05-24/359418/" sala="14" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TOSCA (ÓPERA DIFERIDO 12-06-25)" id="6489" uid="42904"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdtosca-opera-diferido-12-06-25/6489/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mrf.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>134</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="12/06/2025">
+                    <sesiones>
+                        <sesion id="359420" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdtosca-opera-diferido-12-06-25/359420/" sala="14" version="Versión Original Extranjera" formato="HD" hora="19:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="FLOW, UN MUNDO QUE SALVAR" id="6496" uid="42521"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdflow-un-mundo-que-salvar/6496/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mhc.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>ANIMACIÓN</genero>
+            <duracion>85</duracion>
+            <sinopsis>Un gato se despierta en un mundo cubierto de agua, donde la raza humana parece haber desaparecido. Busca refugio en un barco con un grupo de otros animales. Pero llevarse bien con ellos resulta ser un reto aún mayor que superar su miedo al agua. Todos tendrán que aprender a superar sus diferencias y adaptarse a este nuevo mundo en el que se encuentran.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=1GCU3sp29SU</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="363109" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdflow-un-mundo-que-salvar/363109/" sala="7" version="Doblada al Castellano" formato="HD" hora="17:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="363046" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdflow-un-mundo-que-salvar/363046/" sala="7" version="Doblada al Castellano" formato="HD" hora="17:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="363157" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdflow-un-mundo-que-salvar/363157/" sala="7" version="Doblada al Castellano" formato="HD" hora="17:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="A COMPLETE UNKNOWN" id="6543" uid="43404"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hda-complete-unknown/6543/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n6f.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>BIOGRÁFICA</genero>
+            <duracion>141</duracion>
+            <sinopsis>Ambientada en la influyente escena musical de Nueva York de principios de los años 60, A Complete Unknown cuenta la historia del meteórico ascenso del músico de Minnesota Bob Dylan, un cantante de folk de 19 años, hasta las salas de conciertos y lo más alto de las listas de éxitos. Sus canciones y su mística se convirtieron en un fenómeno mundial que culminó en 1965 con su rompedora actuación de rock eléctrico en el Newport Folk Festival.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=5WGNuAR__NM</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="363139" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hda-complete-unknown/363139/" sala="14" version="Versión Original Extranjera" formato="HD" hora="19:35"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="363070" url="https://www.reservaentradas.com/entrada/valencia/cineslys/hda-complete-unknown/363070/" sala="14" version="Versión Original Extranjera" formato="HD" hora="19:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+    <recinto id="2" value="ABC PARK">
+        <address>C/ Roger de Lauria, 21</address>
+        <postcode>46002</postcode>
+        <city>Valencia</city>
+        <evento>
+            <titulo value="MEDJUGORJE, LA PELÍCULA" id="271" uid="29466"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdmedjugorje-la-pelicula/271/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00bpt.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>126</duracion>
+            <sinopsis>En el año 2006, dos periodistas españoles fueron enviados a investigar un supuesto caso de apariciones marianas en una desconocida aldea de Bosnia y Herzegovina. Lo que suponían que no daba para mucho más que para un reportaje fotográfico, supuso, en cambio, un punto de inflexión en sus vidas y en el de muchas otras personas que conocieron en aquel lugar. Ellos no vieron a la Virgen María... pero volvieron asegurando que algo inexplicable y de calado universal sucede, a día de hoy, en Medjugorje.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=SMsd7Tlanac</trailer>
+            <fechas>
+                <fecha value="08/05/2025">
+                    <sesiones>
+                        <sesion id="69765" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmedjugorje-la-pelicula/69765/" sala="12" version="Doblada al Castellano" formato="HD" hora="20:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ANORA" id="1930" uid="41696"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdanora/1930/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00lsy.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>139</duracion>
+            <sinopsis>Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca ruso. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=xV7jnVhBD2E</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70956" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdanora/70956/" sala="3" version="Doblada al Castellano" formato="HD" hora="22:10"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="70994" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdanora/70994/" sala="3" version="Doblada al Castellano" formato="HD" hora="22:10"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71034" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdanora/71034/" sala="3" version="Doblada al Castellano" formato="HD" hora="22:10"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="UNA VIDA EN SECRETO" id="1983" uid="42023"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hduna-vida-en-secreto/1983/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00m2i.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>COMEDIA DRAMÁTICA</genero>
+            <duracion>111</duracion>
+            <sinopsis>Daniel, un rico soltero neoyorquino (Richard Gere), se ve obligado a evaluar sus elecciones de vida cuando descubre que una ex novia suya (Suzanne Clément) dio a luz a su hijo tras su separación hace 20 años.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=UI_eFZviZEI</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70970" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-vida-en-secreto/70970/" sala="7" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71007" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-vida-en-secreto/71007/" sala="7" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71045" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-vida-en-secreto/71045/" sala="7" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CÓNCLAVE" id="2011" uid="41963"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdconclave/2011/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00m18.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>120</duracion>
+            <sinopsis>Tras la inesperada muerte del Sumo Pontífice, el cardenal Lawrence es designado como responsable para liderar uno de los rituales más secretos y antiguos del mundo: la elección de un nuevo Papa. Cuando los líderes más poderosos de la Iglesia Católica se reúnen en los salones del Vaticano, Lawrence se ve atrapado dentro de una compleja conspiración a la vez que descubre un secreto que podría sacudir los cimientos de la Iglesia.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=J0E78tL6CxY</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70971" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdconclave/70971/" sala="7" version="Doblada al Castellano" formato="HD" hora="18:10"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71018" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdconclave/71018/" sala="9" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71048" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdconclave/71048/" sala="8" version="Doblada al Castellano" formato="HD" hora="16:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="THE BRUTALIST" id="2069" uid="42638"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdthe-brutalist/2069/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mkc.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>215</duracion>
+            <sinopsis>Huyendo de la Europa de la posguerra, el visionario arquitecto László Toth llega a Estados Unidos para reconstruir su vida, su obra y su matrimonio con su esposa Erzsébet tras verse obligados a separarse durante la guerra a causa de los cambios de fronteras y regímenes. Solo y en un nuevo país totalmente desconocido para él, László se establece en Pensilvania, donde el adinerado y prominente empresario industrial Harrison Lee Van Buren reconoce su talento para la arquitectura. Pero amasar poder y forjarse un legado tiene su precio...</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=vna5bN96xJg</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70953" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-brutalist/70953/" sala="2" version="Doblada al Castellano" formato="HD" hora="21:05"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="70991" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-brutalist/70991/" sala="2" version="Doblada al Castellano" formato="HD" hora="21:05"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71031" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-brutalist/71031/" sala="2" version="Doblada al Castellano" formato="HD" hora="21:05"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="FLOW, UN MUNDO QUE SALVAR" id="2075" uid="42521"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdflow-un-mundo-que-salvar/2075/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mhc.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>ANIMACIÓN</genero>
+            <duracion>85</duracion>
+            <sinopsis>Un gato se despierta en un mundo cubierto de agua, donde la raza humana parece haber desaparecido. Busca refugio en un barco con un grupo de otros animales. Pero llevarse bien con ellos resulta ser un reto aún mayor que superar su miedo al agua. Todos tendrán que aprender a superar sus diferencias y adaptarse a este nuevo mundo en el que se encuentran.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=1GCU3sp29SU</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70977" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdflow-un-mundo-que-salvar/70977/" sala="8" version="Doblada al Castellano" formato="HD" hora="20:10"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71026" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdflow-un-mundo-que-salvar/71026/" sala="12" version="Doblada al Castellano" formato="HD" hora="21:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71039" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdflow-un-mundo-que-salvar/71039/" sala="5" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="A COMPLETE UNKNOWN" id="2137" uid="43404"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hda-complete-unknown/2137/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n6f.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>BIOGRÁFICA</genero>
+            <duracion>141</duracion>
+            <sinopsis>Ambientada en la influyente escena musical de Nueva York de principios de los años 60, A Complete Unknown cuenta la historia del meteórico ascenso del músico de Minnesota Bob Dylan, un cantante de folk de 19 años, hasta las salas de conciertos y lo más alto de las listas de éxitos. Sus canciones y su mística se convirtieron en un fenómeno mundial que culminó en 1965 con su rompedora actuación de rock eléctrico en el Newport Folk Festival.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=5WGNuAR__NM</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70976" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-complete-unknown/70976/" sala="8" version="Doblada al Castellano" formato="HD" hora="22:00"/>
+                        <sesion id="70952" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-complete-unknown/70952/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71013" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-complete-unknown/71013/" sala="8" version="Doblada al Castellano" formato="HD" hora="22:00"/>
+                        <sesion id="70990" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-complete-unknown/70990/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71030" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-complete-unknown/71030/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                        <sesion id="70789" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-complete-unknown/70789/" sala="8" version="Versión Original Extranjera" formato="HD" hora="22:10"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="POR TODO LO ALTO" id="2146" uid="43556"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdpor-todo-lo-alto/2146/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nbk.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>103</duracion>
+            <sinopsis>Thibaut es un director de orquesta de renombre internacional que viaja por el mundo. Cuando se entera de que es adoptado, descubre la existencia de un hermano, Jimmy, un empleado de un comedor escolar que toca el trombón en una banda de música en el norte de Francia. Al parecer todo les separa, excepto el amor por la música. Al detectar las excepcionales habilidades musicales de su hermano, Thibaut se propone reparar la injusticia del destino. Jimmy entonces comienza a soñar con otra vida...</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=rhubqWq_LFg</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70962" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpor-todo-lo-alto/70962/" sala="5" version="Doblada al Castellano" formato="HD" hora="16:10"/>
+                        <sesion id="70963" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpor-todo-lo-alto/70963/" sala="5" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                        <sesion id="70955" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpor-todo-lo-alto/70955/" sala="3" version="Doblada al Castellano" formato="HD" hora="20:10"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="70993" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpor-todo-lo-alto/70993/" sala="3" version="Doblada al Castellano" formato="HD" hora="20:10"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71033" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpor-todo-lo-alto/71033/" sala="3" version="Doblada al Castellano" formato="HD" hora="20:10"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ÓPERA LA RONDINE - TEATRO ALLA SCALA" id="2149" uid="43571"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdopera-la-rondine---teatro-alla-scala/2149/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nb7.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>160</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="69452" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdopera-la-rondine---teatro-alla-scala/69452/" sala="8" version="Doblada al Castellano" formato="HD" hora="19:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MICKEY 17" id="2152" uid="43452"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdmickey-17/2152/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n7r.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>CIENCIA FICCIÓN</genero>
+            <duracion>137</duracion>
+            <sinopsis>Mickey7, un robot &apos;expendable&apos; (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey8, tome su lugar... Adaptación del libro original de Edward Ashton.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=vzvAieKSWqA</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70964" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmickey-17/70964/" sala="5" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71001" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmickey-17/71001/" sala="5" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="71000" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmickey-17/71000/" sala="5" version="Doblada al Castellano" formato="HD" hora="17:40"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71040" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmickey-17/71040/" sala="5" version="Doblada al Castellano" formato="HD" hora="17:40"/>
+                        <sesion id="70790" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmickey-17/70790/" sala="5" version="Versión Original Extranjera" formato="HD" hora="22:20"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="PRESENCE" id="2153" uid="43453"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdpresence/2153/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n7s.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>TERROR</genero>
+            <duracion>85</duracion>
+            <sinopsis>Rebekah (Lucy Liu), su marido (Chris Sullivan) y sus hijos comienzan a experimentar fenómenos inexplicables tras mudarse a su nueva casa en los suburbios. Las extrañas presencias que se manifiestan a su alrededor les harán cruzar la fina línea que separa la realidad de la percepción... Una película contada enteramente desde el punto de vista de un fantasma.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=bvOSiAEY3bo</trailer>
+            <fechas>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="70793" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpresence/70793/" sala="10" version="Versión Original Extranjera" formato="HD" hora="22:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BLANCANIEVES" id="2159" uid="43622"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdblancanieves/2159/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00neg.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>110</duracion>
+            <sinopsis>Una adaptación en vivo del clásico cuento de hadas sobre una hermosa joven princesa que, mientras es acosada por una reina celosa, busca refugio en la casa de siete enanos en la campiña alemana.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Iqhf2jglRdc</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70975" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdblancanieves/70975/" sala="8" version="Doblada al Castellano" formato="HD" hora="18:05"/>
+                        <sesion id="70974" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdblancanieves/70974/" sala="8" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71012" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdblancanieves/71012/" sala="8" version="Doblada al Castellano" formato="HD" hora="18:05"/>
+                        <sesion id="71011" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdblancanieves/71011/" sala="8" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71046" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdblancanieves/71046/" sala="7" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="THE ALTO KNIGHTS" id="2160" uid="43676"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdthe-alto-knights/2160/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nem.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>ACCIÓN</genero>
+            <duracion>123</duracion>
+            <sinopsis>La película sigue a dos de los jefes del crimen organizado más notorios de Nueva York, Frank Costello (De Niro) y Vito Genovese (De Niro), en su pugna por el control de las calles de la ciudad. Tras haber sido los mejores amigos, unos celos mezquinos y una serie de traiciones les llevan a una colisión mortal que cambiará la forma de la Mafia (y de América) para siempre.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=60uDrJuG-zo</trailer>
+            <fechas>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71008" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-alto-knights/71008/" sala="7" version="Doblada al Castellano" formato="HD" hora="18:10"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="WOLFGANG (EXTRAORDINARIO)" id="2162" uid="43505"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdwolfgang-extraordinario/2162/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n9d.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>110</duracion>
+            <sinopsis>Wolfgang, un niño de diez años con un cociente intelectual de 152 y trastorno del espectro autista, se ve obligado a vivir con su padre, Carles, a quien no ha visto nunca, tras la repentina muerte de su madre. Carles afronta el reto con ganas y voluntad, pero Wolfgang no soporta su desorden ni su desorganización y lo considera un  bajocien  por su falta de intelecto. Así que, a escondidas, Wolfgang planea conseguir su sueño: entrar en la academia de música Grimald de París, donde estudió su madre, y convertirse en el mejor pianista del mundo. Cuando Carles lo descubre, debe decidir entre su gran oportunidad como actor o convertirse en el padre que necesita un niño como Wolfgang.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Wm9o1N69WY0</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70979" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdwolfgang-extraordinario/70979/" sala="9" version="Doblada al Castellano" formato="HD" hora="18:10"/>
+                        <sesion id="70978" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdwolfgang-extraordinario/70978/" sala="9" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71015" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdwolfgang-extraordinario/71015/" sala="9" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71050" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdwolfgang-extraordinario/71050/" sala="9" version="Doblada al Castellano" formato="HD" hora="18:10"/>
+                        <sesion id="71049" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdwolfgang-extraordinario/71049/" sala="9" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BERNADETTE DE LOURDES. EL MUSICAL" id="2169" uid="43812"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdbernadette-de-lourdes.-el-musical/2169/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nir.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>MUSICAL</genero>
+            <duracion>96</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="24/04/2025">
+                    <sesiones>
+                        <sesion id="70093" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdbernadette-de-lourdes.-el-musical/70093/" sala="12" version="Versión Original Extranjera" formato="HD" hora="20:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="27/04/2025">
+                    <sesiones>
+                        <sesion id="70096" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdbernadette-de-lourdes.-el-musical/70096/" sala="12" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LOS AITAS" id="2171" uid="43673"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdlos-aitas/2171/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nel.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>88</duracion>
+            <sinopsis>En la periferia obrera del Bilbao de finales de los 80, un equipo infantil de gimnasia ri tmica tiene la oportunidad de participar en una campeonato en Berli n. Ante la imposibilidad de que las madres acompan en a sus hijas, la tarea recaera  en los padres, que no parecen muy interesados en el viaje, ni en ese deporte, ni incluso en sus propias hijas.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=X2tc7Z_Rf6Q</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70967" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-aitas/70967/" sala="6" version="Doblada al Castellano" formato="HD" hora="19:05"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71004" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-aitas/71004/" sala="6" version="Doblada al Castellano" formato="HD" hora="19:05"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71043" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-aitas/71043/" sala="6" version="Doblada al Castellano" formato="HD" hora="19:05"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="STING. ARAÑA ASESINA" id="2176" uid="43883"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdsting.-arana-asesina/2176/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nkw.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>TERROR</genero>
+            <duracion>91</duracion>
+            <sinopsis>Charlotte, una rebelde niña de 12 años, adopta a una pequeña araña como mascota que encuentra en su ruinoso edificio. Esta empieza a adquirir un tamaño gigantesco y su apetito es cada vez más insaciable. Es entonces cuando Charlotte y su familia se ven atrapados y obligados a luchar por su supervivencia.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=QFdB75OOYoI</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70972" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsting.-arana-asesina/70972/" sala="7" version="Doblada al Castellano" formato="HD" hora="22:35"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71009" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsting.-arana-asesina/71009/" sala="7" version="Doblada al Castellano" formato="HD" hora="22:35"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="70792" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsting.-arana-asesina/70792/" sala="7" version="Versión Original Extranjera" formato="HD" hora="22:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="UNA PELÍCULA DE MINECRAFT" id="2177" uid="43568"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hduna-pelicula-de-minecraft/2177/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00npw.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>101</duracion>
+            <sinopsis>Bienvenido al mundo de Minecraft, donde la creatividad no sólo ayuda a crear, sino que es esencial para la supervivencia. Cuatro inadaptados -Garrett &quot;El Basurero&quot; Garrison (Momoa), Henry (Hansen), Natalie (Myers) y Dawn (Brooks)- se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo (y protegerlo de cosas malvadas como Piglins y Zombies, también) mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve (Black). Juntos, su aventura desafiará a los cinco a ser audaces y a volver a conectar con las cualidades que hacen que cada uno de ellos sea único y creativ</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=NOAmJa-dhCA</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70949" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/70949/" sala="1" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                        <sesion id="70958" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/70958/" sala="4" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="70950" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/70950/" sala="1" version="Doblada al Castellano" formato="HD" hora="22:25"/>
+                        <sesion id="70957" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/70957/" sala="3" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71023" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/71023/" sala="12" version="Doblada al Castellano" formato="HD" hora="17:15"/>
+                        <sesion id="71024" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/71024/" sala="12" version="Doblada al Castellano" formato="HD" hora="19:15"/>
+                        <sesion id="70987" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/70987/" sala="1" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                        <sesion id="70992" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/70992/" sala="3" version="Doblada al Castellano" formato="HD" hora="16:15"/>
+                        <sesion id="70988" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/70988/" sala="1" version="Doblada al Castellano" formato="HD" hora="22:25"/>
+                        <sesion id="70998" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/70998/" sala="4" version="Doblada al Castellano" formato="HD" hora="18:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71036" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/71036/" sala="4" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="71035" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/71035/" sala="3" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                        <sesion id="71028" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/71028/" sala="1" version="Doblada al Castellano" formato="HD" hora="22:25"/>
+                        <sesion id="71027" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hduna-pelicula-de-minecraft/71027/" sala="1" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SORDA" id="2178" uid="43868"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdsorda/2178/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nkt.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>99</duracion>
+            <sinopsis>Ángela, una mujer sorda, va a tener un bebé con Héctor, su pareja oyente. El embarazo hace aflorar sus miedos frente la maternidad y sobre cómo podrá comunicarse con su hija. La llegada de la niña genera una crisis en la pareja y lleva a Ángela a afrontar la crianza de su hija en un mundo que no está hecho para ella. Largometraje basado en el corto de 2021 del mismo nombre.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=K6fdaHZthfI</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="71087" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71087/" sala="11" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="71086" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71086/" sala="11" version="Doblada al Castellano" formato="HD" hora="20:20"/>
+                        <sesion id="71085" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71085/" sala="11" version="Doblada al Castellano" formato="HD" hora="18:20"/>
+                        <sesion id="71084" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71084/" sala="11" version="Doblada al Castellano" formato="HD" hora="16:20"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71091" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71091/" sala="11" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="71090" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71090/" sala="11" version="Doblada al Castellano" formato="HD" hora="20:20"/>
+                        <sesion id="71089" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71089/" sala="11" version="Doblada al Castellano" formato="HD" hora="18:20"/>
+                        <sesion id="71088" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71088/" sala="11" version="Doblada al Castellano" formato="HD" hora="16:20"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71095" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71095/" sala="11" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="71094" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71094/" sala="11" version="Doblada al Castellano" formato="HD" hora="20:20"/>
+                        <sesion id="71093" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71093/" sala="11" version="Doblada al Castellano" formato="HD" hora="18:20"/>
+                        <sesion id="71092" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsorda/71092/" sala="11" version="Doblada al Castellano" formato="HD" hora="16:20"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TIERRA DE NADIE" id="2180" uid="43881"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdtierra-de-nadie/2180/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nku.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>ACCIÓN</genero>
+            <duracion>101</duracion>
+            <sinopsis>Esta es la historia de tres viejos amigos. Mateo el Gallego, un heroico -a su pesar- guardia civil, Juan El Antxale, un pescador convertido en narco por la mala suerte y en el paro, y Benito el Yeye, un resignado e inteligente depositario judicial siempre a medio camino entre la ley y la delincuencia. Tres amigos separados por un lugar, Cádiz y un momento, el presente. Atrapados los tres entre el abandono de las instituciones, el violento e imparable ascenso del narco en la provincia y el peligroso aumento del descontento social. Tres amigos atrapados en un polvorín que pondrá a prueba su amistad. El traslado rutinario de un yate incautado a un peligroso cártel se convierte en una aventura entre la vida y la muerte.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=uiLrnRL4yk0</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70985" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtierra-de-nadie/70985/" sala="10" version="Doblada al Castellano" formato="HD" hora="22:30"/>
+                        <sesion id="70959" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtierra-de-nadie/70959/" sala="4" version="Doblada al Castellano" formato="HD" hora="17:50"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71022" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtierra-de-nadie/71022/" sala="10" version="Doblada al Castellano" formato="HD" hora="22:30"/>
+                        <sesion id="71014" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtierra-de-nadie/71014/" sala="8" version="Doblada al Castellano" formato="HD" hora="20:10"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71037" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtierra-de-nadie/71037/" sala="4" version="Doblada al Castellano" formato="HD" hora="17:50"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="A WORKING MAN" id="2181" uid="43853"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hda-working-man/2181/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nkl.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>ACCIÓN</genero>
+            <duracion>116</duracion>
+            <sinopsis>Levon Cade ha dejado atrás su profesión para ser &quot;honrado&quot; y trabajar en la construcción. Quiere vivir una vida sencilla y ser un buen padre para su hija. Pero cuando Jenny, la hija adolescente de su jefe, desaparece, se ve obligado a volver a emplear las habilidades que le convirtieron en una figura legendaria en el oscuro mundo de las operaciones encubiertas. Su búsqueda de la universitaria desaparecida le lleva al corazón de una siniestra conspiración criminal que creará una reacción en cadena que amenazará su nueva forma de vida.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=gGOXUdcE6hk</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70984" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-working-man/70984/" sala="10" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                        <sesion id="70980" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-working-man/70980/" sala="9" version="Doblada al Castellano" formato="HD" hora="22:25"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71021" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-working-man/71021/" sala="10" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                        <sesion id="71016" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-working-man/71016/" sala="9" version="Doblada al Castellano" formato="HD" hora="22:25"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71055" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-working-man/71055/" sala="10" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                        <sesion id="71051" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hda-working-man/71051/" sala="9" version="Doblada al Castellano" formato="HD" hora="22:25"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA FURIA" id="2185" uid="43882"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdla-furia/2185/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nkv.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>107</duracion>
+            <sinopsis>Alex, una joven actriz, es violada en una fiesta en Nochevieja y no reconoce a su agresor. Cuando acude a su hermano Adrián en busca de abrigo y compresión, éste reacciona cuestionándola y presionándola. Así, Alex se distancia de su hermano y de todo lo conocido. A lo largo de un año vive sola el asco, la vergüenza y la culpa. Adrián, consumido por la rabia, toma sus propias decisiones en un camino cada vez más oscuro, muy lejos de lo que Álex necesita. Mientras, ella interpreta al vengativo personaje de Medea y encuentra en el teatro la única forma de canalizar su dolor y su ira.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=P4BwcAil5E8</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70973" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-furia/70973/" sala="7" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71010" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-furia/71010/" sala="7" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71047" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-furia/71047/" sala="7" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA BIBLIA: APOCALIPSIS" id="2188" uid="44002"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdla-biblia-apocalipsis/2188/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00npq.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>113</duracion>
+            <sinopsis>Un viaje a través de las misteriosas visiones del libro más enigmático de la Biblia demostrando que el Apocalipsis es una profecía próxima a cumplirse.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=lXP1V_wCbtU</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70983" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-biblia-apocalipsis/70983/" sala="10" version="Doblada al Castellano" formato="HD" hora="18:05"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71020" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-biblia-apocalipsis/71020/" sala="10" version="Doblada al Castellano" formato="HD" hora="18:05"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71054" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-biblia-apocalipsis/71054/" sala="10" version="Doblada al Castellano" formato="HD" hora="18:05"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LOS PECADORES" id="2190" uid="44041"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdlos-pecadores/2190/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00npu.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER</genero>
+            <duracion>131</duracion>
+            <sinopsis>Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos (Jordan) regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=XufPTI4PDLg</trailer>
+            <fechas>
+                <fecha value="16/04/2025">
+                    <sesiones>
+                        <sesion id="70753" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-pecadores/70753/" sala="1" version="Doblada al Castellano" formato="HD" hora="19:40"/>
+                        <sesion id="70754" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-pecadores/70754/" sala="1" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="17/04/2025">
+                    <sesiones>
+                        <sesion id="70756" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-pecadores/70756/" sala="1" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="70755" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-pecadores/70755/" sala="1" version="Doblada al Castellano" formato="HD" hora="19:40"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="18/04/2025">
+                    <sesiones>
+                        <sesion id="70758" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-pecadores/70758/" sala="1" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="70757" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-pecadores/70757/" sala="1" version="Doblada al Castellano" formato="HD" hora="19:40"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="19/04/2025">
+                    <sesiones>
+                        <sesion id="70759" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-pecadores/70759/" sala="1" version="Doblada al Castellano" formato="HD" hora="19:40"/>
+                        <sesion id="70760" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-pecadores/70760/" sala="1" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="20/04/2025">
+                    <sesiones>
+                        <sesion id="70762" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-pecadores/70762/" sala="1" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="70761" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-pecadores/70761/" sala="1" version="Doblada al Castellano" formato="HD" hora="19:40"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="THE CHOSEN: LA ÚLTIMA CENA" id="2195" uid="43914"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdthe-chosen-la-ultima-cena/2195/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nmm.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>120</duracion>
+            <sinopsis>La mesa está servida. El pueblo de Israel recibe a Jesús como rey mientras sus discípulos esperan su coronación. Sin embargo, en lugar de enfrentarse a Roma, él da un giro inesperado a la celebración religiosa judía. En vez de seguir el rumbo anticipado, cambia el significado de la festividad, desafiando el sistema establecido. Al percatarse de la amenaza que esto supone para su poder, los líderes religiosos y políticos del país no dudarán en hacer lo que sea necesario para asegurarse de que esta cena de Pascua sea la última de Jesús. El creciente peligro de que sus enseñanzas alteren el equilibrio de poder llevará a estos líderes a tramar su muerte, convencidos de que deben eliminar esta amenaza antes de que crezca aún más.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=wbctN_iQRSE</trailer>
+            <fechas>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="70752" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70752/" sala="12" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/04/2025">
+                    <sesiones>
+                        <sesion id="70763" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70763/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                        <sesion id="71098" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/71098/" sala="11" version="Doblada al Castellano" formato="HD" hora="18:10"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/04/2025">
+                    <sesiones>
+                        <sesion id="70764" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70764/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                        <sesion id="71099" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/71099/" sala="11" version="Doblada al Castellano" formato="HD" hora="18:10"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/04/2025">
+                    <sesiones>
+                        <sesion id="70765" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70765/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                        <sesion id="71100" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/71100/" sala="11" version="Doblada al Castellano" formato="HD" hora="18:10"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/04/2025">
+                    <sesiones>
+                        <sesion id="70766" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70766/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/04/2025">
+                    <sesiones>
+                        <sesion id="70767" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70767/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="16/04/2025">
+                    <sesiones>
+                        <sesion id="70768" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70768/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="17/04/2025">
+                    <sesiones>
+                        <sesion id="70769" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70769/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="18/04/2025">
+                    <sesiones>
+                        <sesion id="70770" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70770/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="19/04/2025">
+                    <sesiones>
+                        <sesion id="70771" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70771/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="20/04/2025">
+                    <sesiones>
+                        <sesion id="70772" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70772/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="21/04/2025">
+                    <sesiones>
+                        <sesion id="70773" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-chosen-la-ultima-cena/70773/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="GUILLERMO TELL" id="2196" uid="43936"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdguillermo-tell/2196/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nmn.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>133</duracion>
+            <sinopsis>En 1307, las fuerzas austriacas oprimen al pueblo suizo. Guillermo Tell juró no volver a usar la violencia tras su paso por las Cruzadas, pero se ve obligado a unirse a la rebelión para detener el derramamiento de sangre. Como castigo, el gobernador Gessler obliga a Tell a disparar una manzana sobre la cabeza de su hijo Walter, de lo que saldrá ileso por sus habilidades con la ballesta. Gessler hace cautivos a Tell y a la princesa Bertha de Habsburgo, que rápidamente escapan. Tell regresa para liderar una rebelión contra los invasores austriacos, buscando venganza tras el saqueo de su ciudad y la muerte de su esposa.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=cNA3r-TR070</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70961" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdguillermo-tell/70961/" sala="4" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="70960" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdguillermo-tell/70960/" sala="4" version="Doblada al Castellano" formato="HD" hora="19:50"/>
+                        <sesion id="70951" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdguillermo-tell/70951/" sala="2" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="70997" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdguillermo-tell/70997/" sala="4" version="Doblada al Castellano" formato="HD" hora="22:25"/>
+                        <sesion id="70996" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdguillermo-tell/70996/" sala="4" version="Doblada al Castellano" formato="HD" hora="19:55"/>
+                        <sesion id="70989" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdguillermo-tell/70989/" sala="2" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71038" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdguillermo-tell/71038/" sala="4" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="71029" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdguillermo-tell/71029/" sala="2" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="70788" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdguillermo-tell/70788/" sala="4" version="Versión Original Extranjera" formato="HD" hora="19:50"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA HUELLA DEL MAL" id="2197" uid="43937"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdla-huella-del-mal/2197/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nmo.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>106</duracion>
+            <sinopsis>Durante la visita guiada de un colegio al Centro de Arqueología Experimental (CAREX), unos chavales encuentran el cuerpo de una joven en el lugar donde debería estar la réplica de un enterramiento neandertal. La joven es Eva Santos, una chica del pueblo cercano de Atapuerca, y está muerta. Su cuerpo está desnudo y colocado en posición fetal. Un espeluznante crimen ritual que recuerda a otro ocurrido hace seis años en la misma zona. ¿Habrá regresado el  asesino del yacimiento , que consiguió escapar hace seis años?</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=B_Fk-_iWykc</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70982" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-huella-del-mal/70982/" sala="10" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="70965" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-huella-del-mal/70965/" sala="5" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71019" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-huella-del-mal/71019/" sala="10" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="71002" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-huella-del-mal/71002/" sala="5" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71053" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-huella-del-mal/71053/" sala="10" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="71041" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-huella-del-mal/71041/" sala="5" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="PETER PAN: PESADILLA EN NUNCA JAMÁS" id="2198" uid="43040"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdpeter-pan-pesadilla-en-nunca-jamas/2198/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n4g.jpg</caratula>
+            <calificacion>No rec. a menores de 18 años</calificacion>
+            <genero>TERROR</genero>
+            <duracion>89</duracion>
+            <sinopsis>Sigue a Wendy Darling en su intento de rescatar a su hermano Michael de &quot;las garras del malvado Peter Pan&quot;. Por el camino conoce a Campanilla, que en esta retorcida versión del cuento se verá tomando heroína, convencida de que es polvo de hadas. La famosa historia de Peter Pan reinventada como un film de terror por Jagged Edge Productions, productora de &quot;Winnie the Pooh: Blood and Honey&quot;.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=CM4CRLZIz8U</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70969" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpeter-pan-pesadilla-en-nunca-jamas/70969/" sala="6" version="Doblada al Castellano" formato="HD" hora="22:35"/>
+                        <sesion id="70968" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpeter-pan-pesadilla-en-nunca-jamas/70968/" sala="6" version="Doblada al Castellano" formato="HD" hora="20:50"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71006" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpeter-pan-pesadilla-en-nunca-jamas/71006/" sala="6" version="Doblada al Castellano" formato="HD" hora="22:35"/>
+                        <sesion id="71005" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpeter-pan-pesadilla-en-nunca-jamas/71005/" sala="6" version="Doblada al Castellano" formato="HD" hora="20:50"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71044" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpeter-pan-pesadilla-en-nunca-jamas/71044/" sala="6" version="Doblada al Castellano" formato="HD" hora="20:50"/>
+                        <sesion id="70791" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpeter-pan-pesadilla-en-nunca-jamas/70791/" sala="6" version="Versión Original Extranjera" formato="HD" hora="22:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="VIDA EN PAUSA" id="2199" uid="43863"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdvida-en-pausa/2199/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nko.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>99</duracion>
+            <sinopsis>Suecia, 2018. Un misterioso síndrome que afecta a niños refugiados desata la preocupación entre médicos y políticos. Sergei y Natalia se han visto obligados a huir de su país natal tras un ataque que casi acaba con la vida del primero. Se han instalado con sus dos hijas pequeñas en Suecia, a la espera de que la Junta de Migración decida sobre su solicitud de asilo. Hacen todo lo posible por llevar una vida normal. Trabajan duro, envían a sus hijas a la escuela local, aprenden el idioma, se someten a inspecciones periódicas de las autoridades, esperando ser, algún día, ciudadanos suecos. Pero cuando su solicitud de asilo es rechazada, Katja, su hija menor, se desmaya y cae en un misterioso coma. Enfrentados a un dilema moral, la resistencia de Sergei y Natalia se pondrá a prueba.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=c0hM-KOKvhA</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70986" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdvida-en-pausa/70986/" sala="12" version="Doblada al Castellano" formato="HD" hora="22:30"/>
+                        <sesion id="70981" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdvida-en-pausa/70981/" sala="9" version="Doblada al Castellano" formato="HD" hora="20:20"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71025" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdvida-en-pausa/71025/" sala="12" version="Doblada al Castellano" formato="HD" hora="22:55"/>
+                        <sesion id="71017" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdvida-en-pausa/71017/" sala="9" version="Doblada al Castellano" formato="HD" hora="20:20"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71056" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdvida-en-pausa/71056/" sala="12" version="Doblada al Castellano" formato="HD" hora="22:35"/>
+                        <sesion id="71052" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdvida-en-pausa/71052/" sala="9" version="Doblada al Castellano" formato="HD" hora="20:20"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="UN PÁJARO AZUL" id="2200" uid="43938"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdun-pajaro-azul/2200/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nmp.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>97</duracion>
+            <sinopsis>Javier y Valeria hace años buscan tener un hijo que no llega. Un día aparece Camila, una compañera de trabajo de Javier, para contarle que está embarazada de él. Javier queda atrapado en un conflicto que con el paso de los días, dinamita su existencia y su vida de pareja.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=yeq6itrgeLE</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70954" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdun-pajaro-azul/70954/" sala="3" version="Doblada al Castellano" formato="HD" hora="16:10"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="70995" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdun-pajaro-azul/70995/" sala="4" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71032" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdun-pajaro-azul/71032/" sala="3" version="Doblada al Castellano" formato="HD" hora="16:10"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="REY DE REYES" id="2201" uid="44108"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdrey-de-reyes/2201/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nrr.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>DRAMA</genero>
+            <duracion>168</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70966" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdrey-de-reyes/70966/" sala="6" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="71003" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdrey-de-reyes/71003/" sala="6" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="71042" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdrey-de-reyes/71042/" sala="6" version="Doblada al Castellano" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="KANTAURI" id="2202" uid="44077"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdkantauri/2202/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nsm.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>70</duracion>
+            <sinopsis>KANTAURI nos desvela un ecosistema marino de gran belleza y biodiversidad en el mar Cantábrico. Desde las aguas costeras hasta 20 km de profundidad, conoceremos la fauna y flora parte del origen de la cultura vasca, invitándonos a disfrutarla, cuidarla y protegerla.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=g6flYRauQv8</trailer>
+            <fechas>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="70999" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdkantauri/70999/" sala="5" version="Doblada al Castellano" formato="HD" hora="16:10"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="THE ALTO KNIGHTS - CLUB ROSEBUD" id="2203" uid="44109"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdthe-alto-knights---club-rosebud/2203/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nrs.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>123</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="70783" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-alto-knights---club-rosebud/70783/" sala="12" version="Doblada al Castellano" formato="HD" hora="16:30"/>
+                        <sesion id="70775" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-alto-knights---club-rosebud/70775/" sala="1" version="Doblada al Castellano" formato="HD" hora="17:30"/>
+                        <sesion id="70787" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-alto-knights---club-rosebud/70787/" sala="12" version="Doblada al Castellano" formato="HD" hora="19:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="70776" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-alto-knights---club-rosebud/70776/" sala="1" version="Doblada al Castellano" formato="HD" hora="17:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="70777" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-alto-knights---club-rosebud/70777/" sala="1" version="Doblada al Castellano" formato="HD" hora="17:30"/>
+                        <sesion id="70785" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-alto-knights---club-rosebud/70785/" sala="12" version="Doblada al Castellano" formato="HD" hora="16:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="THE SLEEPER. EL CARAVAGGIO PERDIDO" id="2205" uid="44135"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdthe-sleeper.-el-caravaggio-perdido/2205/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nsu.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>75</duracion>
+            <sinopsis>Documental sobre la trepidante carrera para hacerse con un cuadro perdido de Caravaggio, un llamado  sleeper . El cuadro, titulado &quot;Ecce Homo&quot;, durante años estuvo colgado en el salón de una familia madrileña que, sin saber que era del genio italiano y podría llegar a valer 300 millones de euros, lo puso en 2021 a subasta por 1.500 euros. Tras ser reconocido por expertos y marchantes de arte, se desató una intensa y alocada carrera por intentar adquirirlo, una competición en la que un marchante de arte, que vive en Mónaco, llegó a ofrecer 20 millones de euros por un cuadro que sólo había visto en fotos de Whatsapp. Finalmente alguien de quien se ignora su identidad lo adquirió, cediendo su exhibición al Museo del Prado durante unos meses en 2024. Se desconoce dónde se exhibirá finalmente.</sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="13/05/2025">
+                    <sesiones>
+                        <sesion id="71101" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-sleeper.-el-caravaggio-perdido/71101/" sala="7" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/05/2025">
+                    <sesiones>
+                        <sesion id="71102" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-sleeper.-el-caravaggio-perdido/71102/" sala="7" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/05/2025">
+                    <sesiones>
+                        <sesion id="71103" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdthe-sleeper.-el-caravaggio-perdido/71103/" sala="7" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL CONTABLE 2" id="2206" uid="44141"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdel-contable-2/2206/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nsv.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>ACCIÓN</genero>
+            <duracion>124</duracion>
+            <sinopsis>Secuela de la película &apos;El contable&apos; (2016). Christian Wolff tiene talento para resolver problemas complejos. Cuando un viejo conocido es asesinado, dejando tras de sí un críptico mensaje para &quot;encontrar al contable&quot;, Wolff se ve obligado a resolver el caso. Al darse cuenta de que son necesarias medidas más extremas, Wolff recluta a su hermano Brax, distanciado y muy letal, para que le ayude. En colaboración con Marybeth Medina, subdirectora del Tesoro de Estados Unidos, descubren una conspiración mortal y se convierten en objetivo de una despiadada red de asesinos que no se detendrán ante nada para mantener sus secretos enterrados.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=i2R_Ac7bBL4</trailer>
+            <fechas>
+                <fecha value="25/04/2025">
+                    <sesiones>
+                        <sesion id="71105" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-contable-2/71105/" sala="1" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="71104" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-contable-2/71104/" sala="1" version="Doblada al Castellano" formato="HD" hora="19:40"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="26/04/2025">
+                    <sesiones>
+                        <sesion id="71107" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-contable-2/71107/" sala="1" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="71106" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-contable-2/71106/" sala="1" version="Doblada al Castellano" formato="HD" hora="19:40"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="27/04/2025">
+                    <sesiones>
+                        <sesion id="71109" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-contable-2/71109/" sala="1" version="Doblada al Castellano" formato="HD" hora="22:20"/>
+                        <sesion id="71108" url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-contable-2/71108/" sala="1" version="Doblada al Castellano" formato="HD" hora="19:40"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+    <recinto id="3" value="CINES AXION SANTA POLA">
+        <address>Av. de Portugal, 39</address>
+        <postcode>03130</postcode>
+        <city>Santa Pola</city>
+        <evento>
+            <titulo value="ANORA" id="2125" uid="41696"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdanora/2125/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00lsy.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>139</duracion>
+            <sinopsis>Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca ruso. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=xV7jnVhBD2E</trailer>
+            <fechas>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="89200" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdanora/89200/" sala="5" version="Doblada al Castellano" formato="HD" hora="20:05"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="89201" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdanora/89201/" sala="5" version="Doblada al Castellano" formato="HD" hora="20:05"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="WOLFGANG (EXTRAORDINARIO)" id="2129" uid="43505"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdwolfgang-extraordinario/2129/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n9d.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>110</duracion>
+            <sinopsis>Wolfgang, un niño de diez años con un cociente intelectual de 152 y trastorno del espectro autista, se ve obligado a vivir con su padre, Carles, a quien no ha visto nunca, tras la repentina muerte de su madre. Carles afronta el reto con ganas y voluntad, pero Wolfgang no soporta su desorden ni su desorganización y lo considera un  bajocien  por su falta de intelecto. Así que, a escondidas, Wolfgang planea conseguir su sueño: entrar en la academia de música Grimald de París, donde estudió su madre, y convertirse en el mejor pianista del mundo. Cuando Carles lo descubre, debe decidir entre su gran oportunidad como actor o convertirse en el padre que necesita un niño como Wolfgang.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Wm9o1N69WY0</trailer>
+            <fechas>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="89198" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdwolfgang-extraordinario/89198/" sala="5" version="Doblada al Castellano" formato="HD" hora="18:05"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="89199" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdwolfgang-extraordinario/89199/" sala="5" version="Doblada al Castellano" formato="HD" hora="18:05"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BLANCANIEVES" id="2130" uid="43622"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdblancanieves/2130/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00neg.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>110</duracion>
+            <sinopsis>Una adaptación en vivo del clásico cuento de hadas sobre una hermosa joven princesa que, mientras es acosada por una reina celosa, busca refugio en la casa de siete enanos en la campiña alemana.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Iqhf2jglRdc</trailer>
+            <fechas>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="89183" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdblancanieves/89183/" sala="1" version="Doblada al Castellano" formato="HD" hora="20:20"/>
+                        <sesion id="89182" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdblancanieves/89182/" sala="1" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="89185" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdblancanieves/89185/" sala="1" version="Doblada al Castellano" formato="HD" hora="20:20"/>
+                        <sesion id="89184" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdblancanieves/89184/" sala="1" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="A WORKING MAN" id="2134" uid="43853"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hda-working-man/2134/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nkl.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>ACCIÓN</genero>
+            <duracion>116</duracion>
+            <sinopsis>Levon Cade ha dejado atrás su profesión para ser &quot;honrado&quot; y trabajar en la construcción. Quiere vivir una vida sencilla y ser un buen padre para su hija. Pero cuando Jenny, la hija adolescente de su jefe, desaparece, se ve obligado a volver a emplear las habilidades que le convirtieron en una figura legendaria en el oscuro mundo de las operaciones encubiertas. Su búsqueda de la universitaria desaparecida le lleva al corazón de una siniestra conspiración criminal que creará una reacción en cadena que amenazará su nueva forma de vida.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=gGOXUdcE6hk</trailer>
+            <fechas>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="89187" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hda-working-man/89187/" sala="2" version="Doblada al Castellano" formato="HD" hora="20:25"/>
+                        <sesion id="89186" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hda-working-man/89186/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="89189" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hda-working-man/89189/" sala="2" version="Doblada al Castellano" formato="HD" hora="20:25"/>
+                        <sesion id="89188" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hda-working-man/89188/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TIERRA DE NADIE" id="2136" uid="43881"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdtierra-de-nadie/2136/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nku.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>ACCIÓN</genero>
+            <duracion>101</duracion>
+            <sinopsis>Esta es la historia de tres viejos amigos. Mateo el Gallego, un heroico -a su pesar- guardia civil, Juan El Antxale, un pescador convertido en narco por la mala suerte y en el paro, y Benito el Yeye, un resignado e inteligente depositario judicial siempre a medio camino entre la ley y la delincuencia. Tres amigos separados por un lugar, Cádiz y un momento, el presente. Atrapados los tres entre el abandono de las instituciones, el violento e imparable ascenso del narco en la provincia y el peligroso aumento del descontento social. Tres amigos atrapados en un polvorín que pondrá a prueba su amistad. El traslado rutinario de un yate incautado a un peligroso cártel se convierte en una aventura entre la vida y la muerte.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=uiLrnRL4yk0</trailer>
+            <fechas>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="89203" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdtierra-de-nadie/89203/" sala="7" version="Doblada al Castellano" formato="HD" hora="20:35"/>
+                        <sesion id="89202" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdtierra-de-nadie/89202/" sala="7" version="Doblada al Castellano" formato="HD" hora="18:45"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="89205" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdtierra-de-nadie/89205/" sala="7" version="Doblada al Castellano" formato="HD" hora="20:35"/>
+                        <sesion id="89204" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdtierra-de-nadie/89204/" sala="7" version="Doblada al Castellano" formato="HD" hora="18:45"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="GUILLERMO TELL" id="2137" uid="43936"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdguillermo-tell/2137/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nmn.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>133</duracion>
+            <sinopsis>En 1307, las fuerzas austriacas oprimen al pueblo suizo. Guillermo Tell juró no volver a usar la violencia tras su paso por las Cruzadas, pero se ve obligado a unirse a la rebelión para detener el derramamiento de sangre. Como castigo, el gobernador Gessler obliga a Tell a disparar una manzana sobre la cabeza de su hijo Walter, de lo que saldrá ileso por sus habilidades con la ballesta. Gessler hace cautivos a Tell y a la princesa Bertha de Habsburgo, que rápidamente escapan. Tell regresa para liderar una rebelión contra los invasores austriacos, buscando venganza tras el saqueo de su ciudad y la muerte de su esposa.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=cNA3r-TR070</trailer>
+            <fechas>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="89214" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdguillermo-tell/89214/" sala="6" version="Doblada al Castellano" formato="HD" hora="18:10"/>
+                        <sesion id="89213" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdguillermo-tell/89213/" sala="3" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="89218" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdguillermo-tell/89218/" sala="6" version="Doblada al Castellano" formato="HD" hora="18:10"/>
+                        <sesion id="89217" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdguillermo-tell/89217/" sala="3" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="UNA PELÍCULA DE MINECRAFT" id="2138" uid="43568"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hduna-pelicula-de-minecraft/2138/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00npw.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>101</duracion>
+            <sinopsis>Bienvenido al mundo de Minecraft, donde la creatividad no sólo ayuda a crear, sino que es esencial para la supervivencia. Cuatro inadaptados -Garrett &quot;El Basurero&quot; Garrison (Momoa), Henry (Hansen), Natalie (Myers) y Dawn (Brooks)- se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo (y protegerlo de cosas malvadas como Piglins y Zombies, también) mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve (Black). Juntos, su aventura desafiará a los cinco a ser audaces y a volver a conectar con las cualidades que hacen que cada uno de ellos sea único y creativ</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=NOAmJa-dhCA</trailer>
+            <fechas>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="89215" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hduna-pelicula-de-minecraft/89215/" sala="6" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                        <sesion id="89212" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hduna-pelicula-de-minecraft/89212/" sala="3" version="Doblada al Castellano" formato="HD" hora="18:25"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="89219" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hduna-pelicula-de-minecraft/89219/" sala="6" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                        <sesion id="89216" url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hduna-pelicula-de-minecraft/89216/" sala="3" version="Doblada al Castellano" formato="HD" hora="18:25"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+    <recinto id="4" value="GRAN VÍA CINES">
+        <address>C/ Miradoiro, 2</address>
+        <postcode>36210</postcode>
+        <city>Vigo</city>
+    </recinto>
+    <recinto id="5" value="AS TERMAS DE LUGO">
+        <address>Av. Duquesa de Lugo Infanta El, S/N</address>
+        <postcode>27003</postcode>
+        <city>Lugo</city>
+    </recinto>
+    <recinto id="7" value="CINES BABEL">
+        <address>C/ Vte Sancho Tello, 10</address>
+        <postcode>46021</postcode>
+        <city>Valencia</city>
+        <evento>
+            <titulo value="AÚN ESTOY AQUÍ" id="1863" uid="43291"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cinesbabel/hdaun-estoy-aqui/1863/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n34.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>138</duracion>
+            <sinopsis>Basada en las memorias de Marcelo Rubens Paiva, en las que narra cómo su madre se vio obligada al activismo político cuando su marido, el diputado izquierdista Rubens Paiva, fue capturado por el régimen durante la Dictadura militar de Brasil, en 1971.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=xUGhm86h-Q4</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="55223" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdaun-estoy-aqui/55223/" sala="5" version="Versión Original Extranjera" formato="HD" hora="22:25"/>
+                        <sesion id="55222" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdaun-estoy-aqui/55222/" sala="5" version="Versión Original Extranjera" formato="HD" hora="18:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="55225" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdaun-estoy-aqui/55225/" sala="5" version="Versión Original Extranjera" formato="HD" hora="22:25"/>
+                        <sesion id="55224" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdaun-estoy-aqui/55224/" sala="5" version="Versión Original Extranjera" formato="HD" hora="18:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="55241" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdaun-estoy-aqui/55241/" sala="5" version="Versión Original Extranjera" formato="HD" hora="22:25"/>
+                        <sesion id="55240" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdaun-estoy-aqui/55240/" sala="5" version="Versión Original Extranjera" formato="HD" hora="18:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="A COMPLETE UNKNOWN" id="1869" uid="43404"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cinesbabel/hda-complete-unknown/1869/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n6f.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>BIOGRÁFICA</genero>
+            <duracion>141</duracion>
+            <sinopsis>Ambientada en la influyente escena musical de Nueva York de principios de los años 60, A Complete Unknown cuenta la historia del meteórico ascenso del músico de Minnesota Bob Dylan, un cantante de folk de 19 años, hasta las salas de conciertos y lo más alto de las listas de éxitos. Sus canciones y su mística se convirtieron en un fenómeno mundial que culminó en 1965 con su rompedora actuación de rock eléctrico en el Newport Folk Festival.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=5WGNuAR__NM</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="55194" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hda-complete-unknown/55194/" sala="4" version="Versión Original Extranjera" formato="HD" hora="18:00"/>
+                        <sesion id="55176" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hda-complete-unknown/55176/" sala="3" version="Versión Original Extranjera" formato="HD" hora="20:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="55195" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hda-complete-unknown/55195/" sala="4" version="Versión Original Extranjera" formato="HD" hora="18:00"/>
+                        <sesion id="55177" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hda-complete-unknown/55177/" sala="3" version="Versión Original Extranjera" formato="HD" hora="20:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="55235" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hda-complete-unknown/55235/" sala="3" version="Versión Original Extranjera" formato="HD" hora="20:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MICKEY 17" id="1872" uid="43452"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cinesbabel/hdmickey-17/1872/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n7r.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>CIENCIA FICCIÓN</genero>
+            <duracion>137</duracion>
+            <sinopsis>Mickey7, un robot &apos;expendable&apos; (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey8, tome su lugar... Adaptación del libro original de Edward Ashton.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=vzvAieKSWqA</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="55146" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdmickey-17/55146/" sala="2" version="Versión Original Extranjera" formato="HD" hora="20:05"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="55147" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdmickey-17/55147/" sala="2" version="Versión Original Extranjera" formato="HD" hora="20:05"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MISERICORDIA" id="1878" uid="43700"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cinesbabel/hdmisericordia/1878/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nfg.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>104</duracion>
+            <sinopsis>Jérémie regresa a su pueblo natal para asistir al funeral de Jean-Pierre, antiguo jefe suyo. Ha decidido quedarse unos días en casa de Martine, su viuda. Pero una misteriosa desaparición, un vecino amenazante y un extraño sacerdote van a hacer que la breve y tranquila estancia de Jérémie tome un giro inesperado.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=FLH0JTiQTlg</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="55211" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdmisericordia/55211/" sala="5" version="Versión Original Extranjera" formato="HD" hora="20:30"/>
+                        <sesion id="55210" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdmisericordia/55210/" sala="5" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="55213" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdmisericordia/55213/" sala="5" version="Versión Original Extranjera" formato="HD" hora="20:30"/>
+                        <sesion id="55212" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdmisericordia/55212/" sala="5" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="55239" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdmisericordia/55239/" sala="5" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SORDA" id="1883" uid="43868"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cinesbabel/hdsorda/1883/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nkt.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>99</duracion>
+            <sinopsis>Ángela, una mujer sorda, va a tener un bebé con Héctor, su pareja oyente. El embarazo hace aflorar sus miedos frente la maternidad y sobre cómo podrá comunicarse con su hija. La llegada de la niña genera una crisis en la pareja y lleva a Ángela a afrontar la crianza de su hija en un mundo que no está hecho para ella. Largometraje basado en el corto de 2021 del mismo nombre.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=K6fdaHZthfI</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="55187" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdsorda/55187/" sala="4" version="Original en Castellano" formato="HD" hora="20:35"/>
+                        <sesion id="55186" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdsorda/55186/" sala="4" version="Original en Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="55152" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdsorda/55152/" sala="2" version="Original en Castellano" formato="HD" hora="22:35"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="55189" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdsorda/55189/" sala="4" version="Original en Castellano" formato="HD" hora="20:35"/>
+                        <sesion id="55188" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdsorda/55188/" sala="4" version="Original en Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="55153" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdsorda/55153/" sala="2" version="Original en Castellano" formato="HD" hora="22:35"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="55242" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdsorda/55242/" sala="5" version="Original en Castellano" formato="HD" hora="20:30"/>
+                        <sesion id="55236" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdsorda/55236/" sala="4" version="Original en Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="55231" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdsorda/55231/" sala="2" version="Original en Castellano" formato="HD" hora="22:35"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="POR TODO LO ALTO" id="1884" uid="43556"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cinesbabel/hdpor-todo-lo-alto/1884/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nbk.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>103</duracion>
+            <sinopsis>Thibaut es un director de orquesta de renombre internacional que viaja por el mundo. Cuando se entera de que es adoptado, descubre la existencia de un hermano, Jimmy, un empleado de un comedor escolar que toca el trombón en una banda de música en el norte de Francia. Al parecer todo les separa, excepto el amor por la música. Al detectar las excepcionales habilidades musicales de su hermano, Thibaut se propone reparar la injusticia del destino. Jimmy entonces comienza a soñar con otra vida...</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=rhubqWq_LFg</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="55168" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdpor-todo-lo-alto/55168/" sala="3" version="Versión Original Extranjera" formato="HD" hora="22:35"/>
+                        <sesion id="55167" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdpor-todo-lo-alto/55167/" sala="3" version="Versión Original Extranjera" formato="HD" hora="18:00"/>
+                        <sesion id="55166" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdpor-todo-lo-alto/55166/" sala="3" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="55171" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdpor-todo-lo-alto/55171/" sala="3" version="Versión Original Extranjera" formato="HD" hora="22:35"/>
+                        <sesion id="55170" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdpor-todo-lo-alto/55170/" sala="3" version="Versión Original Extranjera" formato="HD" hora="18:00"/>
+                        <sesion id="55169" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdpor-todo-lo-alto/55169/" sala="3" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="55234" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdpor-todo-lo-alto/55234/" sala="3" version="Versión Original Extranjera" formato="HD" hora="22:35"/>
+                        <sesion id="55233" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdpor-todo-lo-alto/55233/" sala="3" version="Versión Original Extranjera" formato="HD" hora="18:00"/>
+                        <sesion id="55232" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdpor-todo-lo-alto/55232/" sala="3" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="GHOSTLIGHT" id="1887" uid="43737"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cinesbabel/hdghostlight/1887/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ngo.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>114</duracion>
+            <sinopsis>Dan (Keith Kupferer) es un peón de la construcción de mediana edad afligido por una tragedia familiar. Alejado de su abnegada mujer Sharon (Tara Mallen) y su talentosa pero problemática hija Daisy (Katherine Mallen Kupferer), Dan encuentra consuelo y comunidad en una compañía amateur de actores inadaptados. El protagonista se ve obligado a afrontar sus emociones más profundas en una representación de bajo presupuesto de la mayor tragedia de Shakespeare.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=NfD-8OhBldk</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="55140" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdghostlight/55140/" sala="2" version="Versión Original Extranjera" formato="HD" hora="18:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="55141" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdghostlight/55141/" sala="2" version="Versión Original Extranjera" formato="HD" hora="18:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="GUILLERMO TELL" id="1888" uid="43936"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cinesbabel/hdguillermo-tell/1888/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nmn.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>133</duracion>
+            <sinopsis>En 1307, las fuerzas austriacas oprimen al pueblo suizo. Guillermo Tell juró no volver a usar la violencia tras su paso por las Cruzadas, pero se ve obligado a unirse a la rebelión para detener el derramamiento de sangre. Como castigo, el gobernador Gessler obliga a Tell a disparar una manzana sobre la cabeza de su hijo Walter, de lo que saldrá ileso por sus habilidades con la ballesta. Gessler hace cautivos a Tell y a la princesa Bertha de Habsburgo, que rápidamente escapan. Tell regresa para liderar una rebelión contra los invasores austriacos, buscando venganza tras el saqueo de su ciudad y la muerte de su esposa.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=cNA3r-TR070</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="55200" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdguillermo-tell/55200/" sala="4" version="Versión Original Extranjera" formato="HD" hora="22:25"/>
+                        <sesion id="55121" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdguillermo-tell/55121/" sala="1" version="Versión Original Extranjera" formato="HD" hora="20:30"/>
+                        <sesion id="55120" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdguillermo-tell/55120/" sala="1" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="55201" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdguillermo-tell/55201/" sala="4" version="Versión Original Extranjera" formato="HD" hora="22:25"/>
+                        <sesion id="55123" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdguillermo-tell/55123/" sala="1" version="Versión Original Extranjera" formato="HD" hora="20:30"/>
+                        <sesion id="55122" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdguillermo-tell/55122/" sala="1" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="55237" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdguillermo-tell/55237/" sala="4" version="Versión Original Extranjera" formato="HD" hora="22:25"/>
+                        <sesion id="55227" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdguillermo-tell/55227/" sala="1" version="Versión Original Extranjera" formato="HD" hora="20:30"/>
+                        <sesion id="55226" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdguillermo-tell/55226/" sala="1" version="Versión Original Extranjera" formato="HD" hora="16:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="UN PÁJARO AZUL" id="1889" uid="43938"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cinesbabel/hdun-pajaro-azul/1889/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nmp.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>97</duracion>
+            <sinopsis>Javier y Valeria hace años buscan tener un hijo que no llega. Un día aparece Camila, una compañera de trabajo de Javier, para contarle que está embarazada de él. Javier queda atrapado en un conflicto que con el paso de los días, dinamita su existencia y su vida de pareja.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=yeq6itrgeLE</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="55134" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdun-pajaro-azul/55134/" sala="2" version="Original en Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="55128" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdun-pajaro-azul/55128/" sala="1" version="Original en Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="55135" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdun-pajaro-azul/55135/" sala="2" version="Original en Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="55129" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdun-pajaro-azul/55129/" sala="1" version="Original en Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="55229" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdun-pajaro-azul/55229/" sala="2" version="Original en Castellano" formato="HD" hora="16:00"/>
+                        <sesion id="55228" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdun-pajaro-azul/55228/" sala="1" version="Original en Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MUY LEJOS" id="1890" uid="44069"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cinesbabel/hdmuy-lejos/1890/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nqq.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>DRAMA</genero>
+            <duracion>100</duracion>
+            <sinopsis>Sergio viaja a Utrecht con su familia para asistir a un partido de fútbol. Antes de coger el vuelo de regreso a Barcelona, sufre un ataque de pánico y decide quedarse en Holanda. Incapaz de dar una explicación lógica a los suyos, corta el contacto con su pasado. A partir de ese momento, tendrá que sobrevivir sin dinero, sin casa y sin hablar el idioma.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=eMw6_lQbIDU</trailer>
+            <fechas>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="55230" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdmuy-lejos/55230/" sala="2" version="Original en Castellano" formato="HD" hora="19:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA HISTORIA DE JIM" id="1891" uid="44073"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cinesbabel/hdla-historia-de-jim/1891/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nqu.jpg</caratula>
+            <calificacion>No rec. a menores de 12 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>102</duracion>
+            <sinopsis>Aymeric se encuentra con Florence, una antigua compañera de trabajo, una noche en Saint-Claude, en el Haut-Jura. Está embarazada de seis meses y es soltera. Cuando da a luz a Jim, Aymeric está allí. Pasan juntos unos años felices hasta que aparece Christophe, el padre biológico de Jim... Podría ser el comienzo de un melodrama, también es el inicio de una odisea hacia la paternidad.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=tawOoIoAt7E</trailer>
+            <fechas>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="55238" url="https://www.reservaentradas.com/entrada/valencia/cinesbabel/hdla-historia-de-jim/55238/" sala="4" version="Versión Original Extranjera" formato="HD" hora="19:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+    <recinto id="9" value="MULTICINES BERGANTIÑOS">
+        <address>CC POL. DA BALSA, S/N</address>
+        <postcode>15100</postcode>
+        <city>Carballo</city>
+        <evento>
+            <titulo value="WOLFGANG (EXTRAORDINARIO)" id="1443" uid="43505"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/carballo/multicinesbergantinos/hdwolfgang-extraordinario/1443/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n9d.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>110</duracion>
+            <sinopsis>Wolfgang, un niño de diez años con un cociente intelectual de 152 y trastorno del espectro autista, se ve obligado a vivir con su padre, Carles, a quien no ha visto nunca, tras la repentina muerte de su madre. Carles afronta el reto con ganas y voluntad, pero Wolfgang no soporta su desorden ni su desorganización y lo considera un  bajocien  por su falta de intelecto. Así que, a escondidas, Wolfgang planea conseguir su sueño: entrar en la academia de música Grimald de París, donde estudió su madre, y convertirse en el mejor pianista del mundo. Cuando Carles lo descubre, debe decidir entre su gran oportunidad como actor o convertirse en el padre que necesita un niño como Wolfgang.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Wm9o1N69WY0</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="36637" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdwolfgang-extraordinario/36637/" sala="3" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                        <sesion id="36636" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdwolfgang-extraordinario/36636/" sala="3" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="36639" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdwolfgang-extraordinario/36639/" sala="3" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                        <sesion id="36638" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdwolfgang-extraordinario/36638/" sala="3" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="36641" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdwolfgang-extraordinario/36641/" sala="3" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                        <sesion id="36640" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdwolfgang-extraordinario/36640/" sala="3" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BLANCANIEVES" id="1446" uid="43622"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/carballo/multicinesbergantinos/hdblancanieves/1446/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00neg.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>110</duracion>
+            <sinopsis>Una adaptación en vivo del clásico cuento de hadas sobre una hermosa joven princesa que, mientras es acosada por una reina celosa, busca refugio en la casa de siete enanos en la campiña alemana.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Iqhf2jglRdc</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="36642" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdblancanieves/36642/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                        <sesion id="36630" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdblancanieves/36630/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="36643" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdblancanieves/36643/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                        <sesion id="36631" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdblancanieves/36631/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="36644" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdblancanieves/36644/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                        <sesion id="36632" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdblancanieves/36632/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="A WORKING MAN" id="1448" uid="43853"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/carballo/multicinesbergantinos/hda-working-man/1448/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nkl.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>ACCIÓN</genero>
+            <duracion>116</duracion>
+            <sinopsis>Levon Cade ha dejado atrás su profesión para ser &quot;honrado&quot; y trabajar en la construcción. Quiere vivir una vida sencilla y ser un buen padre para su hija. Pero cuando Jenny, la hija adolescente de su jefe, desaparece, se ve obligado a volver a emplear las habilidades que le convirtieron en una figura legendaria en el oscuro mundo de las operaciones encubiertas. Su búsqueda de la universitaria desaparecida le lleva al corazón de una siniestra conspiración criminal que creará una reacción en cadena que amenazará su nueva forma de vida.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=gGOXUdcE6hk</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="36645" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hda-working-man/36645/" sala="5" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                        <sesion id="36633" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hda-working-man/36633/" sala="2" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="36646" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hda-working-man/36646/" sala="5" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                        <sesion id="36634" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hda-working-man/36634/" sala="2" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="36647" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hda-working-man/36647/" sala="5" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                        <sesion id="36635" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hda-working-man/36635/" sala="2" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TIERRA DE NADIE" id="1450" uid="43881"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/carballo/multicinesbergantinos/hdtierra-de-nadie/1450/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nku.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>ACCIÓN</genero>
+            <duracion>101</duracion>
+            <sinopsis>Esta es la historia de tres viejos amigos. Mateo el Gallego, un heroico -a su pesar- guardia civil, Juan El Antxale, un pescador convertido en narco por la mala suerte y en el paro, y Benito el Yeye, un resignado e inteligente depositario judicial siempre a medio camino entre la ley y la delincuencia. Tres amigos separados por un lugar, Cádiz y un momento, el presente. Atrapados los tres entre el abandono de las instituciones, el violento e imparable ascenso del narco en la provincia y el peligroso aumento del descontento social. Tres amigos atrapados en un polvorín que pondrá a prueba su amistad. El traslado rutinario de un yate incautado a un peligroso cártel se convierte en una aventura entre la vida y la muerte.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=uiLrnRL4yk0</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="36648" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdtierra-de-nadie/36648/" sala="5" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="36649" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdtierra-de-nadie/36649/" sala="5" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="36650" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hdtierra-de-nadie/36650/" sala="5" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="UNA PELÍCULA DE MINECRAFT" id="1454" uid="43568"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/carballo/multicinesbergantinos/3duna-pelicula-de-minecraft/1454/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00npw.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>101</duracion>
+            <sinopsis>Bienvenido al mundo de Minecraft, donde la creatividad no sólo ayuda a crear, sino que es esencial para la supervivencia. Cuatro inadaptados -Garrett &quot;El Basurero&quot; Garrison (Momoa), Henry (Hansen), Natalie (Myers) y Dawn (Brooks)- se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo (y protegerlo de cosas malvadas como Piglins y Zombies, también) mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve (Black). Juntos, su aventura desafiará a los cinco a ser audaces y a volver a conectar con las cualidades que hacen que cada uno de ellos sea único y creativ</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=NOAmJa-dhCA</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="36625" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/3duna-pelicula-de-minecraft/36625/" sala="1" version="Doblada al Castellano" formato="3D" hora="20:15"/>
+                        <sesion id="36624" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hduna-pelicula-de-minecraft/36624/" sala="1" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="36627" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/3duna-pelicula-de-minecraft/36627/" sala="1" version="Doblada al Castellano" formato="3D" hora="20:15"/>
+                        <sesion id="36626" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hduna-pelicula-de-minecraft/36626/" sala="1" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="36629" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/3duna-pelicula-de-minecraft/36629/" sala="1" version="Doblada al Castellano" formato="3D" hora="20:15"/>
+                        <sesion id="36628" url="https://www.reservaentradas.com/entrada/carballo/multicinesbergantinos/hduna-pelicula-de-minecraft/36628/" sala="1" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+    <recinto id="11" value="MULTICINES GRAN AROUSA">
+        <address>CENTRO LÚDICO-PUERTO DEPORTIVO,</address>
+        <postcode>36600</postcode>
+        <city>Vilagarcía de Arousa</city>
+        <evento>
+            <titulo value="WOLFGANG (EXTRAORDINARIO)" id="1443" uid="43505"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/vilagarcia-de-arousa/multicinesgranarousa/hdwolfgang-extraordinario/1443/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n9d.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>110</duracion>
+            <sinopsis>Wolfgang, un niño de diez años con un cociente intelectual de 152 y trastorno del espectro autista, se ve obligado a vivir con su padre, Carles, a quien no ha visto nunca, tras la repentina muerte de su madre. Carles afronta el reto con ganas y voluntad, pero Wolfgang no soporta su desorden ni su desorganización y lo considera un  bajocien  por su falta de intelecto. Así que, a escondidas, Wolfgang planea conseguir su sueño: entrar en la academia de música Grimald de París, donde estudió su madre, y convertirse en el mejor pianista del mundo. Cuando Carles lo descubre, debe decidir entre su gran oportunidad como actor o convertirse en el padre que necesita un niño como Wolfgang.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Wm9o1N69WY0</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="51132" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdwolfgang-extraordinario/51132/" sala="3" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="51133" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdwolfgang-extraordinario/51133/" sala="3" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="51134" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdwolfgang-extraordinario/51134/" sala="3" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BLANCANIEVES" id="1446" uid="43622"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/vilagarcia-de-arousa/multicinesgranarousa/hdblancanieves/1446/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00neg.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>110</duracion>
+            <sinopsis>Una adaptación en vivo del clásico cuento de hadas sobre una hermosa joven princesa que, mientras es acosada por una reina celosa, busca refugio en la casa de siete enanos en la campiña alemana.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Iqhf2jglRdc</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="51147" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdblancanieves/51147/" sala="6" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                        <sesion id="51144" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdblancanieves/51144/" sala="5" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="51148" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdblancanieves/51148/" sala="6" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                        <sesion id="51145" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdblancanieves/51145/" sala="5" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="51149" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdblancanieves/51149/" sala="6" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                        <sesion id="51146" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdblancanieves/51146/" sala="5" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="A WORKING MAN" id="1448" uid="43853"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/vilagarcia-de-arousa/multicinesgranarousa/hda-working-man/1448/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nkl.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>ACCIÓN</genero>
+            <duracion>116</duracion>
+            <sinopsis>Levon Cade ha dejado atrás su profesión para ser &quot;honrado&quot; y trabajar en la construcción. Quiere vivir una vida sencilla y ser un buen padre para su hija. Pero cuando Jenny, la hija adolescente de su jefe, desaparece, se ve obligado a volver a emplear las habilidades que le convirtieron en una figura legendaria en el oscuro mundo de las operaciones encubiertas. Su búsqueda de la universitaria desaparecida le lleva al corazón de una siniestra conspiración criminal que creará una reacción en cadena que amenazará su nueva forma de vida.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=gGOXUdcE6hk</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="51138" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hda-working-man/51138/" sala="4" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                        <sesion id="51126" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hda-working-man/51126/" sala="1" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="51139" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hda-working-man/51139/" sala="4" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                        <sesion id="51127" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hda-working-man/51127/" sala="1" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="51140" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hda-working-man/51140/" sala="4" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                        <sesion id="51128" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hda-working-man/51128/" sala="1" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TIERRA DE NADIE" id="1450" uid="43881"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/vilagarcia-de-arousa/multicinesgranarousa/hdtierra-de-nadie/1450/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nku.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>ACCIÓN</genero>
+            <duracion>101</duracion>
+            <sinopsis>Esta es la historia de tres viejos amigos. Mateo el Gallego, un heroico -a su pesar- guardia civil, Juan El Antxale, un pescador convertido en narco por la mala suerte y en el paro, y Benito el Yeye, un resignado e inteligente depositario judicial siempre a medio camino entre la ley y la delincuencia. Tres amigos separados por un lugar, Cádiz y un momento, el presente. Atrapados los tres entre el abandono de las instituciones, el violento e imparable ascenso del narco en la provincia y el peligroso aumento del descontento social. Tres amigos atrapados en un polvorín que pondrá a prueba su amistad. El traslado rutinario de un yate incautado a un peligroso cártel se convierte en una aventura entre la vida y la muerte.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=uiLrnRL4yk0</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="51141" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdtierra-de-nadie/51141/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="51142" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdtierra-de-nadie/51142/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="51143" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hdtierra-de-nadie/51143/" sala="4" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="UNA PELÍCULA DE MINECRAFT" id="1454" uid="43568"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/vilagarcia-de-arousa/multicinesgranarousa/hduna-pelicula-de-minecraft/1454/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00npw.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>101</duracion>
+            <sinopsis>Bienvenido al mundo de Minecraft, donde la creatividad no sólo ayuda a crear, sino que es esencial para la supervivencia. Cuatro inadaptados -Garrett &quot;El Basurero&quot; Garrison (Momoa), Henry (Hansen), Natalie (Myers) y Dawn (Brooks)- se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo (y protegerlo de cosas malvadas como Piglins y Zombies, también) mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve (Black). Juntos, su aventura desafiará a los cinco a ser audaces y a volver a conectar con las cualidades que hacen que cada uno de ellos sea único y creativ</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=NOAmJa-dhCA</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="51150" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-pelicula-de-minecraft/51150/" sala="7" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                        <sesion id="51123" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-pelicula-de-minecraft/51123/" sala="1" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="51124" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-pelicula-de-minecraft/51124/" sala="1" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                        <sesion id="51151" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-pelicula-de-minecraft/51151/" sala="7" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="51152" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-pelicula-de-minecraft/51152/" sala="7" version="Doblada al Castellano" formato="HD" hora="20:15"/>
+                        <sesion id="51125" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-pelicula-de-minecraft/51125/" sala="1" version="Doblada al Castellano" formato="HD" hora="18:15"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="UNA VIDA EN SECRETO" id="1455" uid="42023"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/vilagarcia-de-arousa/multicinesgranarousa/hduna-vida-en-secreto/1455/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00m2i.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>COMEDIA DRAMÁTICA</genero>
+            <duracion>111</duracion>
+            <sinopsis>Daniel, un rico soltero neoyorquino (Richard Gere), se ve obligado a evaluar sus elecciones de vida cuando descubre que una ex novia suya (Suzanne Clément) dio a luz a su hijo tras su separación hace 20 años.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=UI_eFZviZEI</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="51135" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-vida-en-secreto/51135/" sala="3" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                        <sesion id="51129" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-vida-en-secreto/51129/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="51136" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-vida-en-secreto/51136/" sala="3" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                        <sesion id="51130" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-vida-en-secreto/51130/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="51137" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-vida-en-secreto/51137/" sala="3" version="Doblada al Castellano" formato="HD" hora="20:30"/>
+                        <sesion id="51131" url="https://www.reservaentradas.com/entrada/vilagarcia-de-arousa/multicinesgranarousa/hduna-vida-en-secreto/51131/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+    <recinto id="12" value="MULTICINES L&apos;ALTET">
+        <address>Autovía Alcoy - Cocentaina,</address>
+        <postcode>03820</postcode>
+        <city>Cocentaina</city>
+    </recinto>
+    <recinto id="31" value="CINES BROADWAY">
+        <address>C/GARCÍA MORATO, 34</address>
+        <postcode>47001</postcode>
+        <city>Valladolid</city>
+        <evento>
+            <titulo value="CINE FRANCES" id="3640" uid="30366"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdcine-frances/3640/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00cgk.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>0</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="192396" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdcine-frances/192396/" sala="7" version="Doblada al Castellano" formato="HD" hora="18:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL BARBERO DE SEVILLA - MET 2025" id="3757" uid="43347"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdel-barbero-de-sevilla---met-2025/3757/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n4n.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>100</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="31/05/2025">
+                    <sesiones>
+                        <sesion id="184512" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdel-barbero-de-sevilla---met-2025/184512/" sala="5" version="Doblada al Castellano" formato="HD" hora="19:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA NOZZE DI FIGARO - MET LIVE 24-25" id="4943" uid="40937"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdla-nozze-di-figaro---met-live-24-25/4943/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00l6a.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>235</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="26/04/2025">
+                    <sesiones>
+                        <sesion id="184509" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdla-nozze-di-figaro---met-live-24-25/184509/" sala="5" version="Doblada al Castellano" formato="HD" hora="19:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SALOME - MET LIVE 24-25" id="4944" uid="40938"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdsalome---met-live-24-25/4944/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00l6b.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>135</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="17/05/2025">
+                    <sesiones>
+                        <sesion id="184510" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdsalome---met-live-24-25/184510/" sala="5" version="Doblada al Castellano" formato="HD" hora="19:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BALLET TO BROADWAY BALLET ROH 24-25" id="4945" uid="41231"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdballet-to-broadway-ballet-roh-24-25/4945/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00lfk.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>DRAMA ROMÁNTICA</genero>
+            <duracion>180</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="25/05/2025">
+                    <sesiones>
+                        <sesion id="184511" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdballet-to-broadway-ballet-roh-24-25/184511/" sala="11" version="Doblada al Castellano" formato="HD" hora="19:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CÓNCLAVE" id="5088" uid="41963"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdconclave/5088/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00m18.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>120</duracion>
+            <sinopsis>Tras la inesperada muerte del Sumo Pontífice, el cardenal Lawrence es designado como responsable para liderar uno de los rituales más secretos y antiguos del mundo: la elección de un nuevo Papa. Cuando los líderes más poderosos de la Iglesia Católica se reúnen en los salones del Vaticano, Lawrence se ve atrapado dentro de una compleja conspiración a la vez que descubre un secreto que podría sacudir los cimientos de la Iglesia.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=J0E78tL6CxY</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="192271" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdconclave/192271/" sala="8" version="Doblada al Castellano" formato="HD" hora="20:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="192349" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdconclave/192349/" sala="8" version="Doblada al Castellano" formato="HD" hora="20:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="192388" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdconclave/192388/" sala="8" version="Versión Original Extranjera" formato="HD" hora="20:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA BELLA DURMIENTE OPERA DE PARÍS 2025" id="5119" uid="42924"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdla-bella-durmiente-opera-de-paris-2025/5119/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00mrx.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>DRAMA ROMÁNTICA</genero>
+            <duracion>0</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="08/06/2025">
+                    <sesiones>
+                        <sesion id="189321" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdla-bella-durmiente-opera-de-paris-2025/189321/" sala="11" version="Doblada al Castellano" formato="HD" hora="19:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="22/06/2025">
+                    <sesiones>
+                        <sesion id="189320" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdla-bella-durmiente-opera-de-paris-2025/189320/" sala="11" version="Doblada al Castellano" formato="HD" hora="19:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TARDES DE SOLEDAD" id="5189" uid="43394"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdtardes-de-soledad/5189/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n67.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>126</duracion>
+            <sinopsis>Retrato de una estrella del toreo en activo, Andrés Roca Rey, que permite reflexionar sobre la experiencia íntima del torero que asume el riesgo de enfrentarse al toro como un deber personal por respeto a la tradición y como un desafío estético. Este desafío crea una forma de belleza efímera a través de la confrontación material y violenta entre la racionalidad humana y la brutalidad del animal salvaje.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=MH3DHcAHy54</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="192270" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdtardes-de-soledad/192270/" sala="8" version="Doblada al Castellano" formato="HD" hora="22:30"/>
+                        <sesion id="192269" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdtardes-de-soledad/192269/" sala="8" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="192348" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdtardes-de-soledad/192348/" sala="8" version="Doblada al Castellano" formato="HD" hora="22:30"/>
+                        <sesion id="192347" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdtardes-de-soledad/192347/" sala="8" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="192387" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdtardes-de-soledad/192387/" sala="8" version="Doblada al Castellano" formato="HD" hora="22:30"/>
+                        <sesion id="192386" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdtardes-de-soledad/192386/" sala="8" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="WOLFGANG (EXTRAORDINARIO)" id="5197" uid="43505"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdwolfgang-extraordinario/5197/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00n9d.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>110</duracion>
+            <sinopsis>Wolfgang, un niño de diez años con un cociente intelectual de 152 y trastorno del espectro autista, se ve obligado a vivir con su padre, Carles, a quien no ha visto nunca, tras la repentina muerte de su madre. Carles afronta el reto con ganas y voluntad, pero Wolfgang no soporta su desorden ni su desorganización y lo considera un bajocien por su falta de intelecto. Así que, a escondidas, Wolfgang planea conseguir su sueño: entrar en la academia de música Grimald de París, donde estudió su madre, y convertirse en el mejor pianista del mundo. Cuando Carles lo descubre, debe decidir entre su gran oportunidad como actor o convertirse en el padre que necesita un niño como Wolfgang.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Wm9o1N69WY0</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="192273" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdwolfgang-extraordinario/192273/" sala="9" version="Doblada al Castellano" formato="HD" hora="20:00"/>
+                        <sesion id="192272" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdwolfgang-extraordinario/192272/" sala="9" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="192351" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdwolfgang-extraordinario/192351/" sala="9" version="Doblada al Castellano" formato="HD" hora="20:00"/>
+                        <sesion id="192350" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdwolfgang-extraordinario/192350/" sala="9" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="192389" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdwolfgang-extraordinario/192389/" sala="9" version="Doblada al Castellano" formato="HD" hora="17:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BERNADETTE DE LOURDES. EL MUSICAL" id="5206" uid="43812"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdbernadette-de-lourdes.-el-musical/5206/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nir.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>MUSICAL</genero>
+            <duracion>96</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="24/04/2025">
+                    <sesiones>
+                        <sesion id="191480" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdbernadette-de-lourdes.-el-musical/191480/" sala="5" version="Versión Original Extranjera" formato="HD" hora="20:00"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SALVAXE, SALVAXE" id="5207" uid="43786"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdsalvaxe-salvaxe/5207/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ni6.jpg</caratula>
+            <calificacion>Para todos los públicos</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>86</duracion>
+            <sinopsis>'¿Hueles eso?' La cámara se adentra en los montes gallego-portugueses, rastreando imágenes y ausencias del lobo ibérico. Este ensayo fílmico atraviesa una historia relacional cargada de sometimiento y exterminio y se enfrenta a una historia audiovisual hecha de imágenes-simulacro de lo natural salvaje. Surge un antidocumental de naturaleza: lobos que miran a cámara aterrorizados y humanos que aúllan. Todas las criaturas dejamos rastros en este baile cuidadoso de rastreadores rastreados.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=bH8oC7iZKZ4</trailer>
+            <fechas>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="192363" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdsalvaxe-salvaxe/192363/" sala="2" version="Versión Original Extranjera" formato="HD" hora="18:40"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="UN HOMBRE LIBRE" id="5208" uid="43672"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdun-hombre-libre/5208/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nek.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>87</duracion>
+            <sinopsis>Nos sumerge en la vida de Agustín Gómez Arcos, escritor almeriense que alcanzó el éxito en la escena literaria francesa en los años 70, mientras que en España su nombre permanecía en la sombra. En Francia, sus obras fueron leídas por millones de lectores, traducidas a más de una docena de idiomas, y adoptadas en los programas educativos de los institutos. Además, fue finalista al Premio Goncourt en seis ocasiones. Gómez Arcos eligió la lengua francesa para no callar y mantener viva la memoria de los vencidos por el régimen franquista. Su éxito, sus intervenciones públicas y sus ideas muestran a un hombre avanzado que se adelantó a temas como la memoria democrática, el feminismo o la identidad de género y sexual. Tras décadas de olvido, en el año 2006, la editorial Cabaret Voltaire empezó a</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=qYm9O5s5usM</trailer>
+            <fechas>
+                <fecha value="10/04/2025">
+                    <sesiones>
+                        <sesion id="192381" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdun-hombre-libre/192381/" sala="6" version="Doblada al Castellano" formato="HD" hora="18:40"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BLANCANIEVES" id="5211" uid="43622"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdblancanieves/5211/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00neg.jpg</caratula>
+            <calificacion>No rec. a menores de 7 años</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>110</duracion>
+            <sinopsis>Una adaptación en vivo del clásico cuento de hadas sobre una hermosa joven princesa que, mientras es acosada por una reina celosa, busca refugio en la casa de siete enanos en la campiña alemana.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Iqhf2jglRdc</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="192246" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdblancanieves/192246/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="192324" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdblancanieves/192324/" sala="2" version="Doblada al Castellano" formato="HD" hora="18:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MISERICORDIA" id="5214" uid="43700"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valladolid/broadway/hdmisericordia/5214/</compra>
+            <caratula>http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00nfg.jpg</caratula>
+            <calificacion>No rec. a menores de 16 años</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>104</duracion>
+            <sinopsis>Jérémie regresa a su pueblo natal para asistir al funeral de Jean-Pierre, antiguo jefe suyo. Ha decidido quedarse unos días en casa de Martine, su viuda. Pero una misteriosa desaparición, un vecino amenazante y un extraño sacerdote van a hacer que la breve y tranquila estancia de Jérémie tome un giro inesperado.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=FLH0JTiQTlg</trailer>
+            <fechas>
+                <fecha value="08/04/2025">
+                    <sesiones>
+                        <sesion id="192274" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdmisericordia/192274/" sala="9" version="Doblada al Castellano" formato="HD" hora="22:30"/>
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2025">
+                    <sesiones>
+                        <sesion id="192352" url="https://www.reservaentradas.com/entrada/valladolid/broadway/hdmisericordia/192352/" sala="9" version="Doblada al Castellano" formato="HD" hora="22:30"/>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+</cartelera>
